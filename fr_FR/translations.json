@@ -3,7 +3,6 @@
     "ADVENTURER": "Aventurier",
     "SWORDMAN": "Escrimeur",
     "MARTIAL": "Artiste martial"
-  
   },
   "DISCORD_DESC": "Rejoignez nous sur Discord !",
   "ERRORS": {
@@ -11,11 +10,10 @@
     "USERNAME_LENGTH": "L'identifiant doit comporter 4 caractères minimum.",
     "WRONG_CONF_PASSWD": "Les mots de passes doivent être identiques.",
     "WRONG_EMAIL": "E-mail invalide."
-  
   },
   "FAQ": {
     "ABBR": "FAQ",
-    "BUTTONS": ["info", "joueur", "jeu", "€"],
+    "BUTTONS": ["info", "joueur", "jeu", "€", "Tout afficher", "Rien afficher"],
     "CONTENT": [
       {
         "category": "info", 
@@ -75,12 +73,11 @@
       {
         "category": "info", 
         "q": "Et maintenant, qu’est ce que NosWings ?", 
-        "a": "Réponse sur Discord (#faq-fr)"
+        "a": "NosWings est un projet à part entière. Réalisé par des personnes talentueuses d’horizons différents (Polonais, Allemand, Espagnol, Français)\nNotre but est d’amener serveur privé NosTale de vos rêves les plus fous.\nPour ça, nous avons recruté les personnes les plus talentueuses de la communauté NosTale.\nAvoir le meilleur serveur implique différentes parties:\n- Des contenus exclusifs\n- Une expérience de jeu revue\n- Une écoute des retours des joueurs"
       }
     ],
     "DESC": "Petite FAQ pour répondre aux questions les plus fréquentes.",
     "TITLE": "Foire Aux Questions"
-  
   },
   "FORMS": {
     "ACC_ID": "ID du compte",
@@ -89,7 +86,6 @@
       "USER": "Joueur",
       "GM": "Maître du jeu",
       "ADMIN": "Administrateur"
-    
     },
     "ACTUAL_PASSWD": "Mot de passe actuel",
     "CONF_EMAIL": "Confirmez votre email",
@@ -100,7 +96,6 @@
     "RESET": "Réinitialiser",
     "TOS": "J'accepte les Conditions d'Utilisation",
     "USERNAME": "Nom d'utilisateur"
-  
   },
   "INFO": "NosWings est un projet à but non lucratif fait par des étudiants en Informatique, il n'est en aucun cas associé ou supporté par GameForge ou Entwell.",
   "LINKS": {
@@ -114,17 +109,14 @@
     "REGISTER": "Inscription",
     "TOS": "Conditions d'Utilisation",
     "USEFUL_LINKS": "Liens Utiles"
-  
   },
   "NEWS": {
     "TITLE": "Dernières Actualités"
-  
   },
   "PANELS": {
     "USER": "User Panel",
     "GM": "GM Panel",
     "ADMIN": "Admin Panel"
-  
   },
   "RANKING": {
     "FAMILY": "Famille",
@@ -132,110 +124,34 @@
     "NAME": "Nom",
     "RANK": "Rang",
     "SEARCH": "Rechercher"
-  
   },
   "REVIEW": "Champ pour rajouter une image",
   "SLIDES": {
     "0": {
       "DESC": "Préparez vous à un serveur d'un nouveau genre.",
       "TITLE": "NosWings est de retour !"
-    
     },
-    "FORMS": {
-        "ACC_ID": "ID du compte",
-        "AUTH": {
-            "NAME": "Authorité",
-            "USER": "Joueur",
-            "GM": "Maître du jeu",
-            "ADMIN": "Administrateur"
-        },
-        "ACTUAL_PASSWD": "Mot de passe actuel",
-        "CONF_EMAIL": "Confirmez votre email",
-        "CONF_PASSWD": "Confirmez votre mot de passe",
-        "FORGOT_PASSWD": "Mot de passe oublié ?",
-        "NEW_PASSWD": "Nouveau mot de passe",
-        "PASSWORD": "Mot de passe",
-        "RESET": "Réinitialiser",
-        "TOS": "J'accepte les Conditions d'Utilisation",
-        "USERNAME": "Nom d'utilisateur"
-    },
-    "INFO": "NosWings est un projet à but non lucratif fait par des étudiants en Informatique, il n'est en aucun cas associé ou supporté par GameForge ou Entwell.",
-    "LINKS": {
-        "DOWNLOAD": "Téléchargement",
-        "DISCLAIMER": "Clause de non-responsabilité",
-        "LOGIN": "Connexion",
-        "LOGOUT": "Déconnexion",
-        "PRIVACY": "Confidentialité",
-        "PRIVACY_POLICY": "Politique de confidentialité",
-        "RANKING": "Classement",
-        "REGISTER": "Inscription",
-        "TOS": "Conditions d'Utilisation",
-        "UPDATE": "Réactualiser",
-        "USEFUL_LINKS": "Liens Utiles"
-    },
-    "NEWS": {
-        "TITLE": "Dernières Actualités"
-    },
-    "PANELS": {
-        "USER": "User Panel",
-        "GM": "GM Panel",
-        "ADMIN": "Admin Panel"
-    },
-    "RANKING": {
-        "FAMILY": "Famille",
-        "MEMBERS": "Membres",
-        "NAME": "Nom",
-        "RANK": "Rang",
-        "SEARCH": "Rechercher"
-    },
-    "REVIEW": "Champ pour rajouter une image",
-    "SLIDES": {
-        "0": {
-            "DESC": "Préparez vous à un serveur d'un nouveau genre.",
-            "TITLE": "NosWings est de retour !"
-        },
-        "1": {
-            "DESC": "",
-            "TITLE": "CE SITE EST EN CONSTRUCTION, C'EST UNIQUEMENT UNE DEMO POUR LE MOMENT"
-        }
-    },
-    "USER_INFOS": {
-        "CLASS": "Classe",
-        "CHARACTER": "Personnage",
-        "CREATION_DATE": "Date de création",
-        "CURRENT_INFO": "Informations actuelles",
-        "GOLD": "Or",
-        "LAST_LOGIN": "Dernière connexion",
-        "LEVEL": "Niveau",
-        "PSEUDO": "Pseudo",
-        "REPUT": "Réputation"
-    },
-    "USER_PANEL": {
-        "HOME": "Panel Utilisateur",
-        "SETTINGS": "Paramètres du compte",
-        "DONATION": "Dons",
-        "VIP": "Deviens VIP !",
-        "SHOP": "Boutique"
+    "1": {
+      "DESC": "",
+      "TITLE": "CE SITE EST EN CONSTRUCTION, C'EST UNIQUEMENT UNE DEMO POUR LE MOMENT"
     }
-  
   },
   "USER_INFOS": {
-    "CLASS": "Classe",
-    "CHARACTER": "Personnage",
-    "CREATION_DATE": "Date de création",
-    "CURRENT_INFO": "Informations actuelles",
-    "GOLD": "Or",
-    "LAST_LOGIN": "Dernière connexion",
-    "LEVEL": "Niveau",
-    "PSEUDO": "Pseudo",
-    "REPUT": "Réputation"
-  
+      "CLASS": "Classe",
+      "CHARACTER": "Personnage",
+      "CREATION_DATE": "Date de création",
+      "CURRENT_INFO": "Informations actuelles",
+      "GOLD": "Or",
+      "LAST_LOGIN": "Dernière connexion",
+      "LEVEL": "Niveau",
+      "PSEUDO": "Pseudo",
+      "REPUT": "Réputation"
   },
   "USER_PANEL": {
-    "HOME": "Panel Utilisateur",
-    "SETTINGS": "Paramètres du compte",
-    "DONATION": "Dons",
-    "VIP": "Deviens VIP !",
-    "SHOP": "Boutique"
+      "HOME": "Panel Utilisateur",
+      "SETTINGS": "Paramètres du compte",
+      "DONATION": "Dons",
+      "VIP": "Deviens VIP !",
+      "SHOP": "Boutique"
   }
 }

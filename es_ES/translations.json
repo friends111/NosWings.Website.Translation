@@ -13,6 +13,74 @@
     "WRONG_CONF_PASSWD": "La contraseña de confirmación no coincide",
     "WRONG_EMAIL": "Correo electrónico incorrecto"
   },
+  "FAQ": {
+    "ABBR": "FAQ",
+    "BUTTONS": ["info", "player", "game", "$", "View all", "Hide all"],
+    "CONTENT": [
+      {
+        "category": "info",
+        "q": "¿Cuándo empezara la [Beta Abierta]?",
+        "a": "Aún no lo sabemos. Queremos que todos los sistemas funcionen correctamente. No queremos que juguéis un juego donde todo este roto."
+      },
+      {
+        "category": "user",
+        "q": "¿Tendré que pagar para entrar al servidor?",
+        "a": "No, no tendras que pagar. El servidor será [Free To Play]."
+      },
+      {
+        "category": "money",
+        "q": "¿Habrá [P2W] en el servidor?",
+        "a": "No, absolutamente no. El servidor no tendrá [P2W]. Aún y así los jugadores VIP seguramente tendrán [ventajas de confort], pero todo estará hecho de tal forma que sea balanceado y accesible para todo el mundo."
+      },
+      {
+        "category": "money",
+        "q": "¿Como planeáis mantener el servidor financieramente?",
+        "a": "Habrá cosas cosméticas en la [ItemShop], por ejemplo: trajes, aspectos de arma, etc. La [ItemShop] también incluirá [Cajas Aleatorias], por ejemplo: La [Caja de Mejor de SP] contendrá: Lunas llenas, Plumas de Ángel, pergaminos y almas. Todas estas cajas serán también obtenibles haciendo [Grinding] en el juego o a través de otros métodos. Lo mismo va para el [VIP] que dará de forma acceso al [NosBazar] o a [Mejoras del Inventario] y a ventajas más orientadas al confort."
+      },
+      {
+        "category": "game",
+        "q": "¿Estarán las habilidades, equipmientos o [SPs de Compañero] balanceadas?",
+        "a": "En la [Beta Abierta] - no todavía. Trabajaremos en eso después, pero primero acabaremos las funciones básicas."
+      },
+      {
+        "category": "game",
+        "q": "¿Estará disponible [LOD]?",
+        "a": "Todavía no lo sabemos, pero tenemos planes para él."
+      },
+      {
+        "category": "game",
+        "q": "¿Habrán algún tipo de misiones nuevas?",
+        "a": "Sí, definitivamente. Nos gustaría añadir nuevas misiones, como ejemplo: recoger X cantidad de oro de los mobs, o completar X Time-Spaces de dicho tipo, etc."
+      },
+      {
+        "category": "info",
+        "q": "¿Cuál será el nivel máximo?",
+        "a": "Aún estamos en fase de planificación para ese tipo de cosas, pero lo revelaremos dentro de poco."
+      },
+      {
+        "category": "info",
+        "q": "¿Qué [Rates] o [Porcentajes] tendra el servidor?",
+        "a": "Lo mismo que arriba (la pregunta sobre el nivel máximo), pero definitivamente estarán alrededor de un x5. Queremos proveer un vida de juego larga a NosWings, no un servidor donde obtienes un personaje de nivel alto en unas horas."
+      },
+      {
+        "category": "user",
+        "q": "¿Será mi personaje borrado si juego a la [Beta Abierta]?",
+        "a": "Sí, la [Beta Abierta] está abierta para comprobar nuestro entorno técnico, también por motivos del diseño del juego. Todas las cosas que hagan los jugadores serán analizadas para obtener un montón de estadísticas globales y ser capaces de hacer ajustes en el [Gameplay] fácilmente."
+      },
+      {
+        "category": "info",
+        "q": "¿He escuchado que NosWings existió antes, que era NosWings antes?",
+        "a": "Fuimos el primer servidor privado francés con 300 jugadores en línea de forma diaria, durante más de un año. Nuestro equipo estaba compuesto por unos pocos franceses entusiastas. Empezó en Noviembre de 2016 y decidimos cerrarlo en Enero de 2018 porqué no estábamos satisfechos con las posibilidades de OpenNos de añadir nueva funciones al juego. Entonces todo el equipo abandono NosWings, haciendo sus propios proyectos por su parte para aprender un montón de cosas técnicas nuevas. 1 año y 6 meses después, Blowa decidió reabrir el proyecto de NosWings y reunió de nuevo a los antiguos miembros de NosWings para hacer una nueva aventura con muchas más posibilidades."
+      },
+      {
+        "category": "info",
+        "q": "¿Qué es NosWings ahora?",
+        "a": "Todas tus respuestas están en el Discord de NosWings (#what-is-noswings o #faq)."
+      }
+    ],
+    "DESC": "Pequeña sección de FAQ para responder las preguntas más frecuentemente preguntadas",
+    "TITLE": "Preguntas Frecuentemente Preguntadas"
+  },
   "FORMS": {
     "ACC_ID": "Nombre de usuario",
     "AUTH": {
@@ -88,74 +156,5 @@
     "DONATION": "Donations",
     "VIP": "¡Házte VIP!",
     "SHOP": "Tienda"
-  },
-  
-  "FAQ": {
-    "ABBR": "FAQ",
-    "BUTTONS": ["info", "player", "game", "$"],
-    "CONTENT": [
-      {
-        "category": "info",
-        "q": "¿Cuándo empezara la [Beta Abierta]?",
-        "a": "Aún no lo sabemos. Queremos que todos los sistemas funcionen correctamente. No queremos que juguéis un juego donde todo este roto."
-      },
-      {
-        "category": "user",
-        "q": "¿Tendré que pagar para entrar al servidor?",
-        "a": "No, no tendras que pagar. El servidor será [Free To Play]."
-      },
-      {
-        "category": "money",
-        "q": "¿Habrá [P2W] en el servidor?",
-        "a": "No, absolutamente no. El servidor no tendrá [P2W]. Aún y así los jugadores VIP seguramente tendrán [ventajas de confort], pero todo estará hecho de tal forma que sea balanceado y accesible para todo el mundo."
-      },
-      {
-        "category": "money",
-        "q": "¿Como planeáis mantener el servidor financieramente?",
-        "a": "Habrá cosas cosméticas en la [ItemShop], por ejemplo: trajes, aspectos de arma, etc. La [ItemShop] también incluirá [Cajas Aleatorias], por ejemplo: La [Caja de Mejor de SP] contendrá: Lunas llenas, Plumas de Ángel, pergaminos y almas. Todas estas cajas serán también obtenibles haciendo [Grinding] en el juego o a través de otros métodos. Lo mismo va para el [VIP] que dará de forma acceso al [NosBazar] o a [Mejoras del Inventario] y a ventajas más orientadas al confort."
-      },
-      {
-        "category": "game",
-        "q": "¿Estarán las habilidades, equipmientos o [SPs de Compañero] balanceadas?",
-        "a": "En la [Beta Abierta] - no todavía. Trabajaremos en eso después, pero primero acabaremos las funciones básicas."
-      },
-      {
-        "category": "game",
-        "q": "¿Estará disponible [LOD]?",
-        "a": "Todavía no lo sabemos, pero tenemos planes para él."
-      },
-      {
-        "category": "game",
-        "q": "¿Habrán algún tipo de misiones nuevas?",
-        "a": "Sí, definitivamente. Nos gustaría añadir nuevas misiones, como ejemplo: recoger X cantidad de oro de los mobs, o completar X Time-Spaces de dicho tipo, etc."
-      },
-      {
-        "category": "info",
-        "q": "¿Cuál será el nivel máximo?",
-        "a": "Aún estamos en fase de planificación para ese tipo de cosas, pero lo revelaremos dentro de poco."
-      },
-      {
-        "category": "info",
-        "q": "¿Qué [Rates] o [Porcentajes] tendra el servidor?",
-        "a": "Lo mismo que arriba (la pregunta sobre el nivel máximo), pero definitivamente estarán alrededor de un x5. Queremos proveer un vida de juego larga a NosWings, no un servidor donde obtienes un personaje de nivel alto en unas horas."
-      },
-      {
-        "category": "user",
-        "q": "¿Será mi personaje borrado si juego a la [Beta Abierta]?",
-        "a": "Sí, la [Beta Abierta] está abierta para comprobar nuestro entorno técnico, también por motivos del diseño del juego. Todas las cosas que hagan los jugadores serán analizadas para obtener un montón de estadísticas globales y ser capaces de hacer ajustes en el [Gameplay] fácilmente."
-      },
-      {
-        "category": "info",
-        "q": "¿He escuchado que NosWings existió antes, que era NosWings antes?",
-        "a": "Fuimos el primer servidor privado francés con 300 jugadores en línea de forma diaria, durante más de un año. Nuestro equipo estaba compuesto por unos pocos franceses entusiastas. Empezó en Noviembre de 2016 y decidimos cerrarlo en Enero de 2018 porqué no estábamos satisfechos con las posibilidades de OpenNos de añadir nueva funciones al juego. Entonces todo el equipo abandono NosWings, haciendo sus propios proyectos por su parte para aprender un montón de cosas técnicas nuevas. 1 año y 6 meses después, Blowa decidió reabrir el proyecto de NosWings y reunió de nuevo a los antiguos miembros de NosWings para hacer una nueva aventura con muchas más posibilidades."
-      },
-      {
-        "category": "info",
-        "q": "¿Qué es NosWings ahora?",
-        "a": "Todas tus respuestas están en el Discord de NosWings (#what-is-noswings o #faq)."
-      }
-    ],
-    "DESC": "Pequeña sección de FAQ para responder las preguntas más frecuentemente preguntadas",
-    "TITLE": "Preguntas Frecuentemente Preguntadas"
   }
 }

@@ -13,6 +13,74 @@
     "WRONG_CONF_PASSWD": "Das Passwort muss identisch sein",
     "WRONG_EMAIL": "Ungültige E-mail"
   },
+  "FAQ": {
+    "ABBR": "FAQ",
+    "BUTTONS": ["info", "player", "game", "$"],
+    "CONTENT": [
+      {
+        "category": "info",
+        "q": "Wann wird die OpenBeta voraussichtlich starten?",
+        "a": "Das wissen wir noch nicht. Wir wollen, dass alle Systeme ordnungsgemäß funktionieren. Wir wollen nicht, dass ihr ein komplett kaputtes Spiel spielt."
+      },
+      {
+        "category": "user",
+        "q": "Muss ich bezahlen um auf dem Server zu spielen?",
+        "a": "Nein, das musst du nicht. Der Server wird free-to-play sein."
+      },
+      {
+        "category": "money",
+        "q": "Wird der Server P2W sein?",
+        "a": "Nein, definitiv nicht. Der Server wird keine P2W Elemente enthalten. Wir versuchen P2W zu vermeiden, dennoch erhalten VIP Spieler möglicherweise Komfortleistungen, aber alles wird ausgeglichen sein und für jeden erreichbar"
+      },
+      {
+        "category": "money",
+        "q": "Wie wollt ihr den Server finanzieren?",
+        "a": "Es wir kosmetische Items, wie Kostüme und Waffenskins, im ItemShop geben. Der ItemShop wird auch Zufallsboxen, wie eine SP Upgrade Box in welcher Vollmondkristalle, Engelsfedern, Schutzrollen und Seelen sein können, beinhalten. Alle diese Boxen wären auch über in-game grinding oder andere Dinge erhältlich sein. Das selbe gilt für den VIP Status, welcher kostenlose NosBasar Nutzung, zusätzliche Inventarplätze und andere Komfortleistungen enthält."
+      },
+      {
+        "category": "game",
+        "q": "Werden Skills, Equipment oder PSPs ausgewogen?",
+        "a": "In der Openbeta - noch nicht. Wir arbeiten später daran, aber zuerst müssen wir die Basis Features fertigstellen."
+      },
+      {
+        "category": "game",
+        "q": "Wir es das Land der Toten geben?",
+        "a": "Wir wissen es noch nicht, aber wir haben Pläne für das Land der Toten."
+      },
+      {
+        "category": "game",
+        "q": "Wird es neue Missionstypen geben?",
+        "a": "Ja, definitiv. Zum Beispiel wollen wir Quests hinzufügen wie Sammel X von Gold von Mobs oder beende X Time-Spaces von einem Typen etc."
+      },
+      {
+        "category": "info",
+        "q": "Was wird das maximale Level sein?",
+        "a": "Wir sind noch in der Planungsphase von diesen Dingen, aber wir werden diese bald veröffentlichen."
+      },
+      {
+        "category": "info",
+        "q": "Was für Raten wird der Server haben?",
+        "a": "Wie oben (Frage zum maximalen Level), aber sie werden definitiv gering sein (ungefähr x5). Wir wollen ein langfristiges Spielerlebnis bieten und nicht ein Server sein auf dem du einen high-level Charakter in ein paar Stunden hast."
+      },
+      {
+        "category": "user",
+        "q": "Wird mein Charakter gelöscht wenn ich die OpenBeta spiele?",
+        "a": "Ja, die OpenBeta findet statt um unser technischen Rahmenbedingungen GameDesign zu testen. Alle Dinge die Spieler tun werden werden analysiert um mit Hilfe der Statistik das Gameplay zu optimieren."
+      },
+      {
+        "category": "info",
+        "q": "Ich habe gehört, dass es NosWings schon früher gab, was war NosWings früher?",
+        "a": "Wir waren der erste französische Privat Server mit 300 Spielern täglich für über ein Jahr. Unser Team bestand aus ein paar enthusiastischen Franzosen. Wir starteten im November 2016 und beschlossen im Januar 2018 zu schließen, weil wir nicht mehr mit den Möglichkeiten von OpenNos, neue Features zum Spiel hinzuzufügen, zufrieden waren. Dann haben alle NosWings verlassen und eigene Projekte gestartet um viele neue technische Dinge zu lernen. 1 Jahr und 6 Monate später, hat Blowa beschlossen das NosWings Projekt wieder zu eröffnen, er kontaktierte alte NosWings Mitglieder um ein neues Abenteurer mit mehr Möglichkeiten zu starten."
+      },
+      {
+        "category": "info",
+        "q": "Was ist NosWings?",
+        "a": "Die Antwort findest du im Discord (#what-is-noswings oder #faq)"
+      }
+    ],
+    "DESC": "Kleines FAQ um die häufigst gestellten Fragen zu beantworten",
+    "TITLE": "Häufig gestellte Fragen"
+  },
   "FORMS": {
     "ACC_ID": "Account ID",
     "AUTH": {
@@ -88,74 +156,5 @@
     "DONATION": "Spenden",
     "VIP": "Werde VIP!",
     "SHOP": "Shop"
-  },
-  
-  "FAQ": {
-    "ABBR": "FAQ",
-    "BUTTONS": ["info", "player", "game", "$"],
-    "CONTENT": [
-      {
-        "category": "info",
-        "q": "Wann wird die OpenBeta voraussichtlich starten?",
-        "a": "Das wissen wir noch nicht. Wir wollen, dass alle Systeme ordnungsgemäß funktionieren. Wir wollen nicht, dass ihr ein komplett kaputtes Spiel spielt."
-      },
-      {
-        "category": "user",
-        "q": "Muss ich bezahlen um auf dem Server zu spielen?",
-        "a": "Nein, das musst du nicht. Der Server wird free-to-play sein."
-      },
-      {
-        "category": "money",
-        "q": "Wird der Server P2W sein?",
-        "a": "Nein, definitiv nicht. Der Server wird keine P2W Elemente enthalten. Wir versuchen P2W zu vermeiden, dennoch erhalten VIP Spieler möglicherweise Komfortleistungen, aber alles wird ausgeglichen sein und für jeden erreichbar"
-      },
-      {
-        "category": "money",
-        "q": "Wie wollt ihr den Server finanzieren?",
-        "a": "Es wir kosmetische Items, wie Kostüme und Waffenskins, im ItemShop geben. Der ItemShop wird auch Zufallsboxen, wie eine SP Upgrade Box in welcher Vollmondkristalle, Engelsfedern, Schutzrollen und Seelen sein können, beinhalten. Alle diese Boxen wären auch über in-game grinding oder andere Dinge erhältlich sein. Das selbe gilt für den VIP Status, welcher kostenlose NosBasar Nutzung, zusätzliche Inventarplätze und andere Komfortleistungen enthält."
-      },
-      {
-        "category": "game",
-        "q": "Werden Skills, Equipment oder PSPs ausgewogen?",
-        "a": "In der Openbeta - noch nicht. Wir arbeiten später daran, aber zuerst müssen wir die Basis Features fertigstellen."
-      },
-      {
-        "category": "game",
-        "q": "Wir es das Land der Toten geben?",
-        "a": "Wir wissen es noch nicht, aber wir haben Pläne für das Land der Toten."
-      },
-      {
-        "category": "game",
-        "q": "Wird es neue Missionstypen geben?",
-        "a": "Ja, definitiv. Zum Beispiel wollen wir Quests hinzufügen wie Sammel X von Gold von Mobs oder beende X Time-Spaces von einem Typen etc."
-      },
-      {
-        "category": "info",
-        "q": "Was wird das maximale Level sein?",
-        "a": "Wir sind noch in der Planungsphase von diesen Dingen, aber wir werden diese bald veröffentlichen."
-      },
-      {
-        "category": "info",
-        "q": "Was für Raten wird der Server haben?",
-        "a": "Wie oben (Frage zum maximalen Level), aber sie werden definitiv gering sein (ungefähr x5). Wir wollen ein langfristiges Spielerlebnis bieten und nicht ein Server sein auf dem du einen high-level Charakter in ein paar Stunden hast."
-      },
-      {
-        "category": "user",
-        "q": "Wird mein Charakter gelöscht wenn ich die OpenBeta spiele?",
-        "a": "Ja, die OpenBeta findet statt um unser technischen Rahmenbedingungen GameDesign zu testen. Alle Dinge die Spieler tun werden werden analysiert um mit Hilfe der Statistik das Gameplay zu optimieren."
-      },
-      {
-        "category": "info",
-        "q": "Ich habe gehört, dass es NosWings schon früher gab, was war NosWings früher?",
-        "a": "Wir waren der erste französische Privat Server mit 300 Spielern täglich für über ein Jahr. Unser Team bestand aus ein paar enthusiastischen Franzosen. Wir starteten im November 2016 und beschlossen im Januar 2018 zu schließen, weil wir nicht mehr mit den Möglichkeiten von OpenNos, neue Features zum Spiel hinzuzufügen, zufrieden waren. Dann haben alle NosWings verlassen und eigene Projekte gestartet um viele neue technische Dinge zu lernen. 1 Jahr und 6 Monate später, hat Blowa beschlossen das NosWings Projekt wieder zu eröffnen, er kontaktierte alte NosWings Mitglieder um ein neues Abenteurer mit mehr Möglichkeiten zu starten."
-      },
-      {
-        "category": "info",
-        "q": "Was ist NosWings?",
-        "a": "Die Antwort findest du im Discord (#what-is-noswings oder #faq)"
-      }
-    ],
-    "DESC": "Kleines FAQ um die häufigst gestellten Fragen zu beantworten",
-    "TITLE": "Häufig gestellte Fragen"
   }
 }

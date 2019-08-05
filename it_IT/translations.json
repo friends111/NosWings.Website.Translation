@@ -13,6 +13,74 @@
     "WRONG_CONF_PASSWD": "La password di riconferma deve essere identica",
     "WRONG_EMAIL": "e-mail non valida"
   },
+  "FAQ": {
+    "ABBR": "FAQ",
+    "BUTTONS": ["info", "player", "game", "$"],
+    "CONTENT": [
+      {
+        "category": "info",
+        "q": "Quando è prevista la data di apertura beta?",
+        "a": "Non lo sappiamo ancora. Vogliamo che tutti i sistemi funzionino correttamente. Non vogliamo che suoniate qualcosa di completamente rotto."
+      },
+      {
+        "category": "user",
+        "q": "Dovrò pagare per entrare nel server?",
+        "a": "No, non dovrai farlo. Il server sarà gratuito per giocare."
+      },
+      {
+        "category": "money",
+        "q": "Ci sarà P2W sul server?",
+        "a": "No, assolutamente no. Il server sarà privo di roba P2W. Cerchiamo di evitare il P2W, tuttavia, i giocatori VIP potrebbero ottenere vantaggi in termini di comfort, ma tutto sarà fatto per renderlo equilibrato e accessibile a tutti."
+      },
+      {
+        "category": "money",
+        "q": "Come si vuole mantenere il server economicamente?",
+        "a": "Nel ItemShop ci saranno oggetti cosmetici, come costumi, pelli di armi. L'ItemShop includerà anche caselle casuali con oggetti casuali, come SP Upgrade Box contenente FM, WoAs, scrolls e anime. Tutte queste caselle possono essere ottenute anche attraverso la macinazione nel gioco o con altri mezzi. Lo stesso vale per lo status di VIP che offre vantaggi gratuiti di NosBazaar o di inventario e vantaggi più orientati al comfort."
+      },
+      {
+        "category": "game",
+        "q": "Le competenze, le attrezzature o le PSP saranno equilibrate?",
+        "a": "In open beta - non ancora. Ci lavoreremo più tardi, ma prima dobbiamo prima finire le caratteristiche di base."
+      },
+      {
+        "category": "game",
+        "q": "La Terra della Morte sarà disponibile?",
+        "a": "Non lo sappiamo ancora, ma abbiamo dei piani per la Terra della Morte."
+      },
+      {
+        "category": "game",
+        "q": "WCi saranno nuovi tipi di missioni?",
+        "a": "Si', decisamente. Per esempio, vorremmo aggiungere missioni come raccogliere X quantità d'oro da mob, o completare X Spazio-Tempo di un dato tipo, ecc.."
+      },
+      {
+        "category": "info",
+        "q": "Quale sarà il level massimo?",
+        "a": "Siamo ancora in una fase di pianificazione per queste cose, ma le riveleremo a breve."
+      },
+      {
+        "category": "info",
+        "q": "Quali sono le rate del server?",
+        "a": "Come sopra (la domanda di level massimo), ma saranno sicuramente bassi (circa x5). Vogliamo fornire un gameplay di lunga durata a NosWings, non solo un server dove si ottiene un personaggio di alto livello in alcune ore."
+      },
+      {
+        "category": "user",
+        "q": "Farò cancellare il mio personaggio se suono l'openbeta?",
+        "a": "Sì, l'OpenBeta è aperto per i nostri scopi di test del nostro ambiente tecnico, anche per la progettazione di giochi. Tutte le cose che i giocatori stanno per fare saranno analizzate per ottenere un sacco di statistiche globali ed essere in grado di fare facilmente aggiustamenti sul gameplay."
+      },
+      {
+        "category": "info",
+        "q": "Ho sentito che NosWings esisteva già prima, e il server prima d'ora?",
+        "a": "Siamo stati il primo server privato francese, 300 giocatori connessi quotidianamente, per più di un anno. Il nostro team era composto da alcuni francesi di talento. Ha aperto nel novembre 2016 e abbiamo deciso di chiuderlo nel gennaio 2018 perché non eravamo soddisfatti delle possibilità offerte da OpenNos per aggiungere nuovi contenuti al gioco. Il team si è disperso, rendendo i progetti ognuno a modo suo per migliorare tecnicamente. Un anno e mezzo dopo, Blowa decise di rilevare il progetto NosWings. Così ha contattato tutti gli ex membri del progetto per iniziare una nuova avventura con nuove possibilità."
+      },
+      {
+        "category": "info",
+        "q": "What is NosWings now?",
+        "a": "Rispondere in Discord (#faq)"
+      }
+    ],
+    "DESC": "Piccole FAQ per rispondere alle domande più frequenti",
+    "TITLE": "Domande Frequenti"
+  },
   "FORMS": {
     "ACC_ID": "ID del conto",
     "AUTH": {
@@ -88,74 +156,5 @@
     "DONATION": "Donazioni",
     "VIP": "Diventa VIP!",
     "SHOP": "Shop"
-  },
-  
-  "FAQ": {
-    "ABBR": "FAQ",
-    "BUTTONS": ["info", "player", "game", "$"],
-    "CONTENT": [
-      {
-        "category": "info",
-        "q": "Quando è prevista la data di apertura beta?",
-        "a": "Non lo sappiamo ancora. Vogliamo che tutti i sistemi funzionino correttamente. Non vogliamo che suoniate qualcosa di completamente rotto."
-      },
-      {
-        "category": "user",
-        "q": "Dovrò pagare per entrare nel server?",
-        "a": "No, non dovrai farlo. Il server sarà gratuito per giocare."
-      },
-      {
-        "category": "money",
-        "q": "Ci sarà P2W sul server?",
-        "a": "No, assolutamente no. Il server sarà privo di roba P2W. Cerchiamo di evitare il P2W, tuttavia, i giocatori VIP potrebbero ottenere vantaggi in termini di comfort, ma tutto sarà fatto per renderlo equilibrato e accessibile a tutti."
-      },
-      {
-        "category": "money",
-        "q": "Come si vuole mantenere il server economicamente?",
-        "a": "Nel ItemShop ci saranno oggetti cosmetici, come costumi, pelli di armi. L'ItemShop includerà anche caselle casuali con oggetti casuali, come SP Upgrade Box contenente FM, WoAs, scrolls e anime. Tutte queste caselle possono essere ottenute anche attraverso la macinazione nel gioco o con altri mezzi. Lo stesso vale per lo status di VIP che offre vantaggi gratuiti di NosBazaar o di inventario e vantaggi più orientati al comfort."
-      },
-      {
-        "category": "game",
-        "q": "Le competenze, le attrezzature o le PSP saranno equilibrate?",
-        "a": "In open beta - non ancora. Ci lavoreremo più tardi, ma prima dobbiamo prima finire le caratteristiche di base."
-      },
-      {
-        "category": "game",
-        "q": "La Terra della Morte sarà disponibile?",
-        "a": "Non lo sappiamo ancora, ma abbiamo dei piani per la Terra della Morte."
-      },
-      {
-        "category": "game",
-        "q": "WCi saranno nuovi tipi di missioni?",
-        "a": "Si', decisamente. Per esempio, vorremmo aggiungere missioni come raccogliere X quantità d'oro da mob, o completare X Spazio-Tempo di un dato tipo, ecc.."
-      },
-      {
-        "category": "info",
-        "q": "Quale sarà il level massimo?",
-        "a": "Siamo ancora in una fase di pianificazione per queste cose, ma le riveleremo a breve."
-      },
-      {
-        "category": "info",
-        "q": "Quali sono le rate del server?",
-        "a": "Come sopra (la domanda di level massimo), ma saranno sicuramente bassi (circa x5). Vogliamo fornire un gameplay di lunga durata a NosWings, non solo un server dove si ottiene un personaggio di alto livello in alcune ore."
-      },
-      {
-        "category": "user",
-        "q": "Farò cancellare il mio personaggio se suono l'openbeta?",
-        "a": "Sì, l'OpenBeta è aperto per i nostri scopi di test del nostro ambiente tecnico, anche per la progettazione di giochi. Tutte le cose che i giocatori stanno per fare saranno analizzate per ottenere un sacco di statistiche globali ed essere in grado di fare facilmente aggiustamenti sul gameplay."
-      },
-      {
-        "category": "info",
-        "q": "Ho sentito che NosWings esisteva già prima, e il server prima d'ora?",
-        "a": "Siamo stati il primo server privato francese, 300 giocatori connessi quotidianamente, per più di un anno. Il nostro team era composto da alcuni francesi di talento. Ha aperto nel novembre 2016 e abbiamo deciso di chiuderlo nel gennaio 2018 perché non eravamo soddisfatti delle possibilità offerte da OpenNos per aggiungere nuovi contenuti al gioco. Il team si è disperso, rendendo i progetti ognuno a modo suo per migliorare tecnicamente. Un anno e mezzo dopo, Blowa decise di rilevare il progetto NosWings. Così ha contattato tutti gli ex membri del progetto per iniziare una nuova avventura con nuove possibilità."
-      },
-      {
-        "category": "info",
-        "q": "What is NosWings now?",
-        "a": "Rispondere in Discord (#faq)"
-      }
-    ],
-    "DESC": "Piccole FAQ per rispondere alle domande più frequenti",
-    "TITLE": "Domande Frequenti"
   }
 }

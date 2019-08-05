@@ -1,92 +1,92 @@
 {
   "CLASSES": {
-    "ADVENTURER": "Adventurer",
-    "MAGE": "Mage",
-    "ARCHER": "Archer",
-    "SWORDMAN": "Swordman",
-    "MARTIAL": "Martial Artist"
+    "ADVENTURER": "Abenteurer",
+    "MAGE": "Magier",
+    "ARCHER": "Bogenschütze",
+    "SWORDMAN": "Schwertkämpfer",
+    "MARTIAL": "Kampfkünstler"
   },
-  "DISCORD_DESC": "Come talk with us on Discord!",
+  "DISCORD_DESC": "Komm und sprich mit uns auf Discord!",
   "ERRORS": {
-    "PASSWORD_REQ": "Password must be 8 characters minimum and contains at least 1 number",
-    "USERNAME_LENGTH": "Username must have 4 characters minimum",
-    "WRONG_CONF_PASSWD": "Confirmation password must be identical",
-    "WRONG_EMAIL": "Invalid e-mail"
+    "PASSWORD_REQ": "Dein Passwort muss mindestens 8 Zeichen enthalten, davon mindestens eine Zahl!",
+    "USERNAME_LENGTH": "Dein Nutzername muss mindestens 4 Zeichen enthalten",
+    "WRONG_CONF_PASSWD": "Das Passwort muss identisch sein",
+    "WRONG_EMAIL": "Ungültige E-mail"
   },
   "FORMS": {
     "ACC_ID": "Account ID",
     "AUTH": {
-      "NAME": "Authority",
-      "USER": "Player",
+      "NAME": "Autorität",
+      "USER": "Spieler",
       "GM": "Game Master",
       "ADMIN": "Administrator"
     },
-    "ACTUAL_PASSWD": "Current Password",
-    "CONF_EMAIL": "Confirm Email",
-    "CONF_PASSWD": "Confirm New Password",
-    "FORGOT_PASSWD": "Forgot Password?",
-    "NEW_PASSWD": "New Password",
-    "PASSWORD": "Password",
-    "RESET": "Reset",
-    "TOS": "I accept Terms of Service",
-    "USERNAME": "Username"
+    "ACTUAL_PASSWD": "Aktuelles Passwort",
+    "CONF_EMAIL": "Email bestätigen",
+    "CONF_PASSWD": "Neues Passwort bestätigen",
+    "FORGOT_PASSWD": "Passwort vergessen?",
+    "NEW_PASSWD": "Neues Passwort",
+    "PASSWORD": "Passwort",
+    "RESET": "Zurücksetzen",
+    "TOS": "Ich akzeptiere die Nutzungsbedingungen",
+    "USERNAME": "Benutzername"
   },
-  "INFO": "NosWings is a non profit project made by IT students, and not affiliated or endorsed by GameForge or Entwell.",
+  "INFO": "NosWings ist ein internationaler Privat Server, welcher von IT-Studenten ohne Absichten der Geldeinnahme erstellt wurde. Er steht in keinerlei Verbindung zur Entwell, und wird daher auch nicht von diesen unterstützt.",
   "LINKS": {
     "DOWNLOAD": "Download",
-    "DISCLAIMER": "Disclaimer",
+    "DISCLAIMER": "Haftungsausschluss",
     "LOGIN": "Login",
-    "LOGOUT": "Log Out",
-    "PRIVACY": "Privacy",
-    "PRIVACY_POLICY": "Privacy Policy",
-    "RANKING": "Ranking",
-    "REGISTER": "Register",
-    "TOS": "Terms of Service",
+    "LOGOUT": "Abmelden",
+    "PRIVACY": "Privatsphäre",
+    "PRIVACY_POLICY": "Datenschutz-Bestimmungen",
+    "RANKING": "Rangliste",
+    "REGISTER": "Registrierung",
+    "TOS": "Nutzungsbedingungen",
     "UPDATE": "Update",
-    "USEFUL_LINKS": "USEFUL LINKS"
+    "USEFUL_LINKS": "NÜTZLICHE LINKS"
   },
   "NEWS": {
-    "TITLE": "Lastest News"
+    "TITLE": "Neuigkeiten"
   },
   "PANELS": {
-    "USER": "User Panel",
-    "GM": "GM Panel",
-    "ADMIN": "Admin Panel"
+    "USER": "Benutzerbereich",
+    "GM": "GM Bereich",
+    "ADMIN": "Admin Bereich"
   },
   "RANKING": {
-    "FAMILY": "Family",
-    "MEMBERS": "Members",
+    "FAMILY": "Familie",
+    "MEMBERS": "Mitglieder",
     "NAME": "Name",
-    "RANK": "Rank",
-    "SEARCH": "Search"
+    "RANK": "Rang",
+    "SEARCH": "Suche"
   },
-  "REVIEW": "We should put an img here imo",
+  "REVIEW": "Wir sollten hier meiner Meinung nach ein Bild einfügen",
   "SLIDES": {
     "0": {
-      "DESC": "Be ready for an amazing server.",
-      "TITLE": "NosWings is back!"
+      "DESC": "Sei bereit für einen großartigen Server.",
+      "TITLE": "NosWings ist zurück!"
     },
     "1": {
       "DESC": "",
-      "TITLE": "DEMONSTRATION WEBSITE, CURRENTLY WIP. THANKS."
+      "TITLE": "DEMONSTRATIONS WEBSEITE, AKTUELL IN ARBEIT. Danke."
     }
   },
   "USER_INFOS": {
-    "CLASS": "Class",
-    "CHARACTER": "Character",
-    "CREATION_DATE": "Creation Date",
-    "CURRENT_INFO": "Current Informations",
+    "CLASS": "Klasse",
+    "CHARACTER": "Charakter",
+    "CREATION_DATE": "Erstellungsdatum",
+    "CURRENT_INFO": "Aktuelle Informationen",
     "GOLD": "Gold",
-    "LAST_LOGIN": "Last login",
+    "LAST_LOGIN": "Letzter Login",
     "LEVEL": "Level",
-    "PSEUDO": "Nickname",
-    "REPUT": "Reputation"
+    "PSEUDO": "Benutzername",
+    "REPUT": "Ruf"
   },
   "USER_PANEL": {
-    "HOME": "User Panel",
-    "SETTINGS": "Account Settings",
-    "DONATION": "Donations",
-    "VIP": "Become VIP!",
+    "HOME": "Benutzerbereich",
+    "SETTINGS": "Account Einstellungen",
+    "DONATION": "Spenden",
+    "VIP": "Werde VIP!",
     "SHOP": "Shop"
   },
   
@@ -96,66 +96,66 @@
     "CONTENT": [
       {
         "category": "info",
-        "q": "When is the expected open beta date?",
-        "a": "We don't know yet. We want all systems to work properly. We don't want you to play something completely broken."
+        "q": "Wann wird die OpenBeta voraussichtlich starten?",
+        "a": "Das wissen wir noch nicht. Wir wollen, dass alle Systeme ordnungsgemäß funktionieren. Wir wollen nicht, dass ihr ein komplett kaputtes Spiel spielt."
       },
       {
         "category": "user",
-        "q": "Will I have to pay to enter the server?",
-        "a": "No, you won't have to. The server will be free to play."
+        "q": "Muss ich bezahlen um auf dem Server zu spielen?",
+        "a": "Nein, das musst du nicht. Der Server wird free-to-play sein."
       },
       {
         "category": "money",
-        "q": "Will there be P2W on the server?",
-        "a": "No, absolutely not. The server will be free of P2W stuff. We try to avoid P2W, however, VIP players might get comfort advantages, but everything will be made to make it balanced and accessible to everyone"
+        "q": "Wird der Server P2W sein?",
+        "a": "Nein, definitiv nicht. Der Server wird keine P2W Elemente enthalten. Wir versuchen P2W zu vermeiden, dennoch erhalten VIP Spieler möglicherweise Komfortleistungen, aber alles wird ausgeglichen sein und für jeden erreichbar"
       },
       {
         "category": "money",
-        "q": "How do you want to keep the server financially?",
-        "a": "There will be cosmetic things in the ItemShop, such as costumes, weapon skins. The ItemShop will also include random boxes with random stuff in it, like SP Upgrade Box containing FMs, WoAs, scrolls and souls. All these boxes would also be obtainable through in-game grinding or some other means. Same goes for VIP status that gives free NosBazaar or inventory perks and more comfort oriented advantages."
+        "q": "Wie wollt ihr den Server finanzieren?",
+        "a": "Es wir kosmetische Items, wie Kostüme und Waffenskins, im ItemShop geben. Der ItemShop wird auch Zufallsboxen, wie eine SP Upgrade Box in welcher Vollmondkristalle, Engelsfedern, Schutzrollen und Seelen sein können, beinhalten. Alle diese Boxen wären auch über in-game grinding oder andere Dinge erhältlich sein. Das selbe gilt für den VIP Status, welcher kostenlose NosBasar Nutzung, zusätzliche Inventarplätze und andere Komfortleistungen enthält."
       },
       {
         "category": "game",
-        "q": "Will skills, equipments or PSPs be balanced?",
-        "a": "In the open beta - not yet. We will work on it later, but first we have to finish the basic features first."
+        "q": "Werden Skills, Equipment oder PSPs ausgewogen?",
+        "a": "In der Openbeta - noch nicht. Wir arbeiten später daran, aber zuerst müssen wir die Basis Features fertigstellen."
       },
       {
         "category": "game",
-        "q": "Will Land of Death be available?",
-        "a": "We don't know yet, but we do have plans for the Land of Death."
+        "q": "Wir es das Land der Toten geben?",
+        "a": "Wir wissen es noch nicht, aber wir haben Pläne für das Land der Toten."
       },
       {
         "category": "game",
-        "q": "Will there be new type of missions?",
-        "a": "Yes, definitely. For example, we would like to add quests like gather X amount of gold from mobs, or complete X Time-Spaces of given type, etc."
+        "q": "Wird es neue Missionstypen geben?",
+        "a": "Ja, definitiv. Zum Beispiel wollen wir Quests hinzufügen wie Sammel X von Gold von Mobs oder beende X Time-Spaces von einem Typen etc."
       },
       {
         "category": "info",
-        "q": "What will be the maximum level?",
-        "a": "We are still in a planning phase for such things, but we will reveal them shortly."
+        "q": "Was wird das maximale Level sein?",
+        "a": "Wir sind noch in der Planungsphase von diesen Dingen, aber wir werden diese bald veröffentlichen."
       },
       {
         "category": "info",
-        "q": "What rates will the server have?",
-        "a": "Same as above (the maximum level question), but they will definitely be low (about x5). We want to provide a long life gameplay to NosWings, not just a server where you get a high level character in some hours."
+        "q": "Was für Raten wird der Server haben?",
+        "a": "Wie oben (Frage zum maximalen Level), aber sie werden definitiv gering sein (ungefähr x5). Wir wollen ein langfristiges Spielerlebnis bieten und nicht ein Server sein auf dem du einen high-level Charakter in ein paar Stunden hast."
       },
       {
         "category": "user",
-        "q": "Will I get my character deleted if I play the openbeta?",
-        "a": "Yes, the OpenBeta is opened for our testing purposes of our technical environment, also for game design purposes. All the things that players are going to do are going to be analyzed to get a lot of global statistics and be able to easily make adjustments on the gameplay."
+        "q": "Wird mein Charakter gelöscht wenn ich die OpenBeta spiele?",
+        "a": "Ja, die OpenBeta findet statt um unser technischen Rahmenbedingungen GameDesign zu testen. Alle Dinge die Spieler tun werden werden analysiert um mit Hilfe der Statistik das Gameplay zu optimieren."
       },
       {
         "category": "info",
-        "q": "I heard that NosWings existed before, what was NosWings before now?",
-        "a": "We were the first French private server, 300 online players daily, for more than a year. Our team was composed of few enthusiastic french people. It started in November 2016 and we decided to close in January 2018 because we were not satisfied by OpenNos' possibilities to add new features in the game. Then everyone left NosWings, doing their own project on their side to learn a lot of technical new things. 1 year, 6 months later, Blowa decided to reopen the NosWings project, he conctacted old NosWings members to make a new adventure with much more possibilities."
+        "q": "Ich habe gehört, dass es NosWings schon früher gab, was war NosWings früher?",
+        "a": "Wir waren der erste französische Privat Server mit 300 Spielern täglich für über ein Jahr. Unser Team bestand aus ein paar enthusiastischen Franzosen. Wir starteten im November 2016 und beschlossen im Januar 2018 zu schließen, weil wir nicht mehr mit den Möglichkeiten von OpenNos, neue Features zum Spiel hinzuzufügen, zufrieden waren. Dann haben alle NosWings verlassen und eigene Projekte gestartet um viele neue technische Dinge zu lernen. 1 Jahr und 6 Monate später, hat Blowa beschlossen das NosWings Projekt wieder zu eröffnen, er kontaktierte alte NosWings Mitglieder um ein neues Abenteurer mit mehr Möglichkeiten zu starten."
       },
       {
         "category": "info",
-        "q": "What is NosWings now?",
-        "a": "Answer in Discord (#what-is-noswings or #faq)"
+        "q": "Was ist NosWings?",
+        "a": "Die Antwort findest du im Discord (#what-is-noswings oder #faq)"
       }
     ],
-    "DESC": "Small FAQ to answer the most frequently asked questions",
-    "TITLE": "Frequently Asked Questions"
+    "DESC": "Kleines FAQ um die häufigst gestellten Fragen zu beantworten",
+    "TITLE": "Häufig gestellte Fragen"
   }
 }

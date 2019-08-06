@@ -13,7 +13,7 @@
   },
   "FAQ": {
     "ABBR": "FAQ",
-    "BUTTONS": ["info", "joueur", "jeu", "€", "Tout afficher", "Rien afficher"],
+    "BUTTONS": ["info", "joueur", "jeu", "€", "Tout", "Fermer"],
     "CONTENT": [
       {
         "category": "info", 

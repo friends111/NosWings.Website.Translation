@@ -1,7 +1,7 @@
 # NosWings.Website.Translation
 
 <p align="center">
-    <img src="../assets/img/logo.svg" alt="Logo" width="150" height="100"/>
+    <img src="https://avatars2.githubusercontent.com/u/40839221?s=400&v=4" alt="Logo" width="150" height="150"/>
 </p>
 
 Our server supports multilanguages, but since we don't have native speakers of each country playing our server, we will need your help to get the most accurate translations !

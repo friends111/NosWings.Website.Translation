@@ -6,8 +6,11 @@
 
 All translations changes will be documented in this file.
 
+## [1.1] - 7 August 2019.
+### **Added**
++ Privacy Policy keys, translated on FR/EN.
+
 ## [1.0] - 6 August 2019.
----
 ### **Translations added**
 + ES translations (by [@Adanlink](https://github.com/Adanlink))
 + IT translations (by [@Dakusy](https://github.com/Dakusy))

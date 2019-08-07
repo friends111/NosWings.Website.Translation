@@ -121,6 +121,30 @@
       "GM": "GM Panel",
       "ADMIN": "Admin Panel"
   },
+  "PRIVACY": {
+    "POLICY": {
+      "CONFIRMATION": "",
+      "CHILDREN_TITLE": "",
+      "CHILDREN_CONTENT": "",
+      "COOKIES_TITLE": "",
+      "COOKIES_CONTENT": "",
+      "OPPOSITION_RIGHTS_TITLE": "",
+      "OPPOSITION_RIGHTS_CONTENT": "",
+      "PERSONAL_INFORMATION_TITLE": "",
+      "PERSONAL_INFORMATION_CONTENT": "",
+      "SECURITY_TITLE": "",
+      "SECURITY_CONTENT": "",
+      "THANKS": "",
+      "TITLE": "",
+      "THIRDPARTY_TITLE": "",
+      "THIRDPARTY_CONTENT": "",
+      "WARNING": ""
+    },
+    "TOS": {
+      "TITLE": "",
+      "WARNING": ""
+    }
+  },
   "RANKING": {
       "FAMILY": "Rodzina",
       "MEMBERS": "Ilość członków",

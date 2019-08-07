@@ -118,6 +118,30 @@
     "GM": "GM Panel",
     "ADMIN": "Admin Panel"
   },
+  "PRIVACY": {
+    "POLICY": {
+      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de Confidentialité ainsi que nos Conditions Générales d'Utilisation.\nL'Equipe NosWings.",
+      "CHILDREN_TITLE": "Informations sur les enfants",
+      "CHILDREN_CONTENT": "Une autre part de notre priorité, outre la protection des données, est la protection d'utilisateurs. On encourage vivement les parents, dans le cas où votre enfant est mineur, d'observer, de participer et de gérer l'activité en ligne de votre enfant. NosWings ne collecte pas les informations des enfants de moins de 13 ans. Si vous pensez que votre enfant a fourni ce genre d'informations, contactez-nous au plus vite.",
+      "COOKIES_TITLE": "Cookies",
+      "COOKIES_CONTENT": "Comme tous les autres sites, nous utilisons les cookies pour stocker vos préférences (langues...). Vous pouvez choisir de les désactiver dans les options de votre navigateur.",
+      "OPPOSITION_RIGHTS_TITLE": "Droits d'opposition",
+      "OPPOSITION_RIGHTS_CONTENT": "Nous nous engageons à vous offrir un droit d'opposition et de retrait quant à vos informations personnels. C'est-à-dire que chaque utilisateur peut demander à supprimer ses renseignements personnels, n'importe quand, par simple demande, dans le cas où vous ne voulez pas qu'ils figurent dans des listes de diffusion, par exemple.",
+      "PERSONAL_INFORMATION_TITLE": "Informations personnelles",
+      "PERSONAL_INFORMATION_CONTENT": "Nous utilisons ces informations personnelles :\n - Nom d'utilisateur\n - Adresse email\n - Adresse IP (pour protéger votre compte contre divers tentatives de vol de compte)\n\nDe plus, tous les échanges et messages en jeu, les actions, les heures de connexion sont stockées. \nChaque information personnelle est collectée grâce à l'interaction entre notre site, notre jeu, et vous uniquement.",
+      "SECURITY_TITLE": "Sécurité",
+      "SECURITY_CONTENT": "Chaque information personnelle collectée par nous est stockée dans un environnement très sécurisé. Les dernières technologies que nous utilisons nous permettent de garder vos informations privées.\nNous utilisions actuellement:\n - Identifiant / Mot de passe\n - Chiffrement de haut niveau (derniers standard de sécurité)\n - Stockés dans une base de données sécurisée\n - Une équipe à votre écoute pour n'importe quelle question à propos de vos identifiants et de votre sécurité.",
+      "THANKS": "Merci de nous faire confiance.\n\tL'Equipe NosWings",
+      "TITLE": "Politique de confidentialité",
+      "THIRDPARTY_TITLE": "Politique de confidentialité des logiciels tiers",
+      "THIRDPARTY_CONTENT": "Cette politique de confidentialité ne s'applique pas aux sites vers lesquels le notre peut rediriger.\nNous vous encourageons alors de lire leur Politique de Confidentialité respectives dans le cas où elle inclut des pratiques, obligations, ou instructions différentes.",
+      "WARNING": "Pour commencer, si vous n'êtes pas majeur, merci de demander à vos parents de vous expliquer chaque terme utilisé dans ce document que vous ne comprenez pas."
+    },
+    "TOS": {
+      "TITLE": "",
+      "WARNING": ""
+    }
+  },
   "RANKING": {
     "FAMILY": "Famille",
     "MEMBERS": "Membres",

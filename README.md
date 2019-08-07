@@ -20,6 +20,7 @@ We are working with Pull Requests. If you want to participate and you don't know
 
 + All non-translated keys will fallback to EN.
 + You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.
++ Every special character, especially line-breaks (\n) and tabulations (\t) must be respected and shouldn't be deleted.
 + Only **values** of keys must be modified.
 + I'll change the keys if needed.
 

@@ -141,8 +141,28 @@
         "WARNING": ""
     },
     "TOS": {
-        "TITLE": "",
-        "WARNING": ""
+      "ACCOUNTS_TITLE": "",
+      "ACCOUNTS_CONTENT": "",
+      "CHANGES_TITLE": "",
+      "CHANGES_CONTENT": "",
+      "CONFIRMATION": "",
+      "CONTACT_US_TITLE": "",
+      "CONTACT_US_CONTENT": "",
+      "DESC": "",
+      "DISCLAIMER_TITLE": "",
+      "DISCLAIMER_CONTENT": "",
+      "RESPONSABILITIES_TITLE": "",
+      "RESPONSABILITIES_CONTENT": "",
+      "RULES_TITLE": "",
+      "RULES_CONTENT":"",
+      "SANCTION_TITLE": "",
+      "SANCTION_CONTENT": "",
+      "SHOP_TITLE": "",
+      "SHOP_CONTENT": "",
+      "THIRD_PARTY_LINKS_TITLE": "", 
+      "THIRD_PARTY_LINKS_CONTENT": "", 
+      "TITLE": "",
+      "WARNING": ""
     }
   },
   "RANKING": {

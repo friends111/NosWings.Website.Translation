@@ -15,41 +15,41 @@
   },
   "FAQ": {
     "ABBR": "FAQ",
-    "BUTTONS": ["info", "player", "game", "$", "View all", "Hide all"],
+    "BUTTONS": ["información", "jugador", "juego", "dinero", "Ver todo", "Esconder todo"],
     "CONTENT": [
       {
         "category": "info",
         "q": "¿Cuándo empezara la [Beta Abierta]?",
-        "a": "Aún no lo sabemos. Queremos que todos los sistemas funcionen correctamente. No queremos que juguéis un juego donde todo este roto."
+        "a": "Aún no lo sabemos. Queremos que todos los sistemas funcionen correctamente. No queremos que juguéis un juego donde todo este hecho un fiasco."
       },
       {
         "category": "user",
         "q": "¿Tendré que pagar para entrar al servidor?",
-        "a": "No, no tendras que pagar. El servidor será [Free To Play]."
+        "a": "No, no tendrás que pagar. El servidor será [Free To Play]."
       },
       {
         "category": "money",
         "q": "¿Habrá [P2W] en el servidor?",
-        "a": "No, absolutamente no. El servidor no tendrá [P2W]. Aún y así los jugadores VIP seguramente tendrán [ventajas de confort], pero todo estará hecho de tal forma que sea balanceado y accesible para todo el mundo."
+        "a": "No, absolutamente no. El servidor no tendrá [P2W]. Aún y así los jugadores [VIP] seguramente tendrán [ventajas de confort], pero todo estará hecho de tal forma que sea balanceado y accesible para todo el mundo."
       },
       {
         "category": "money",
         "q": "¿Como planeáis mantener el servidor financieramente?",
-        "a": "Habrá cosas cosméticas en la [ItemShop], por ejemplo: trajes, aspectos de arma, etc. La [ItemShop] también incluirá [Cajas Aleatorias], por ejemplo: La [Caja de Mejor de SP] contendrá: Lunas llenas, Plumas de Ángel, pergaminos y almas. Todas estas cajas serán también obtenibles haciendo [Grinding] en el juego o a través de otros métodos. Lo mismo va para el [VIP] que dará de forma acceso al [NosBazar] o a [Mejoras del Inventario] y a ventajas más orientadas al confort."
+        "a": "Habrá cosas cosméticas en la [ItemShop], por ejemplo: trajes, aspectos de arma, etc. La [ItemShop] también incluirá [Cajas Aleatorias], por ejemplo: La [Caja de Mejora de SP] contendrá: Lunas llenas, Plumas de Ángel, pergaminos y almas. Todas estas cajas se podrán obtener haciendo [Grinding] en el juego o a través de otros métodos. Lo mismo va para el [VIP] que dará de forma acceso al [NosBazar] o a [Mejoras del Inventario] y a ventajas más orientadas al confort."
       },
       {
         "category": "game",
-        "q": "¿Estarán las habilidades, equipmientos o [SPs de Compañero] balanceadas?",
-        "a": "En la [Beta Abierta] - no todavía. Trabajaremos en eso después, pero primero acabaremos las funciones básicas."
+        "q": "¿Estarán las habilidades, equipamientos o [SPs de Compañero] balanceadas?",
+        "a": "En la [Beta Abierta] aún no. Trabajaremos en eso después, pero primero acabaremos las funciones básicas."
       },
       {
         "category": "game",
-        "q": "¿Estará disponible [LOD]?",
-        "a": "Todavía no lo sabemos, pero tenemos planes para él."
+        "q": "¿Estará operativo [LOD]?",
+        "a": "Todavía no lo sabemos, pero tenemos planes para un futuro."
       },
       {
         "category": "game",
-        "q": "¿Habrán algún tipo de misiones nuevas?",
+        "q": "¿Habrá algún tipo de misiones nuevas?",
         "a": "Sí, definitivamente. Nos gustaría añadir nuevas misiones, como ejemplo: recoger X cantidad de oro de los mobs, o completar X Time-Spaces de dicho tipo, etc."
       },
       {
@@ -59,13 +59,13 @@
       },
       {
         "category": "info",
-        "q": "¿Qué [Rates] o [Porcentajes] tendra el servidor?",
+        "q": "¿Qué [Rates] o [Porcentajes] tendrá el servidor?",
         "a": "Lo mismo que arriba (la pregunta sobre el nivel máximo), pero definitivamente estarán alrededor de un x5. Queremos proveer un vida de juego larga a NosWings, no un servidor donde obtienes un personaje de nivel alto en unas horas."
       },
       {
         "category": "user",
         "q": "¿Será mi personaje borrado si juego a la [Beta Abierta]?",
-        "a": "Sí, la [Beta Abierta] está abierta para comprobar nuestro entorno técnico, también por motivos del diseño del juego. Todas las cosas que hagan los jugadores serán analizadas para obtener un montón de estadísticas globales y ser capaces de hacer ajustes en el [Gameplay] fácilmente."
+        "a": "Sí, el objetivo de la [Beta Abierta] es comprobar nuestro entorno técnico y cambios en el diseño del juego. Todas las cosas que hagan los jugadores serán analizadas para obtener un montón de estadísticas globales y ser capaces de hacer ajustes en el [Gameplay] fácilmente."
       },
       {
         "category": "info",
@@ -107,7 +107,7 @@
     "PRIVACY": "Privacidad",
     "PRIVACY_POLICY": "Política de privacidad",
     "RANKING": "Ranking",
-    "REGISTER": "Registrate",
+    "REGISTER": "Registrate
     "RULES": "Game Rules",
     "TOS": "Términos de servicio",
     "UPDATE": "Actualización",
@@ -123,32 +123,32 @@
   },
   "PRIVACY": {
     "POLICY": {
-      "CONFIRMATION": "By using any kind of feature available in this website, you strongly agree to our Privacy Policy and our Terms of Services.\nNosWings Team",
+      "CONFIRMATION": "Al utilizar cualquier tipo de función disponible en este sitio web, usted acepta nuestra Política de Privacidad y nuestros Términos de Servicio.\nEl equipo de NosWings.",
       "CHANGES_TITLE": "Changes to this Privacy Policy",
       "CHANGES_CONTENT": "NosWings's Team reserves the right to add, modify, and remove content from this Privacy Policy at any time. Please check this page periodically for changes.",
-      "CHILDREN_TITLE": "Children's Information",
-      "CHILDREN_CONTENT": "Another part of our priority, besides protecting datas, is protecting our users as well. We encourage parents to observe, participate in, or even monitor their children online activity. \nNosWings doesn't collect any kind of informations from children under age of 13. If you think that your child provided this kind of informations, we strongly encourage us to contact us immediately.",
+      "CHILDREN_TITLE": "Información proveniente de niños",
+      "CHILDREN_CONTENT": "Otra parte de nuestra prioridad, además de la protección de datos, es la protección de nuestros usuarios. Recomendamos a los padres que observen, participen o incluso supervisen la actividad en línea de sus hijos. \nNosWings no recoge ningún tipo de información de niños menores de 13. Si usted cree que su hijo ha proporcionado este tipo de información, le recomendamos que se ponga en contacto con nosotros inmediatamente.",
       "CONTACT_US_TITLE": "Contact us",
       "CONTACT_US_CONTENT": "If you have any question, inquiries, requests or complaints concerning this Privacy Policy or our practices, please contact us on Discord, or on support.noswings.com",
       "COOKIES_TITLE": "Cookies",
-      "COOKIES_CONTENT": "Like any others websites, we're using cookies to store your preferences (languages...).\n You can choose to disable them through your browser settings.",
+      "COOKIES_CONTENT": "Como cualquier otro sitio web, utilizamos cookies para almacenar sus preferencias (idiomas...).\nSi desea puede desactivarlos a través de la configuración de su navegador.",
       "DESC": "In this Privacy Policy, \"we\" represents NosWIngs's Team. Your privacy is important for us and we take it very seriously.\nWe designed it to cover how we collect and use your informations, how your informations are protected, and how your informations may be used.\nFor any questions, please contact our support.",
-      "OPPOSITION_RIGHTS_TITLE": "Opposition rights",
-      "OPPOSITION_RIGHTS_CONTENT": "We make a commitment to offer you a withdrawal and opposition right in regards to your personal information.\nBasically, it means that every user can request the removal their personal information at any time, in case they’ll appear in diffusion lists or something.\n If you wish to do so, simply contact our support.",
-      "PERSONAL_INFORMATION_TITLE":"Personal Informations",
-      "PERSONAL_INFORMATION_CONTENT": "You don't need to provide information directly in order to navigate in the site. However, when you using some functions on the site, such as accessing panels or more, you must be logged, so we may ask for the following informations :\n- Username\n - Mail address\n - IP Address (To protect your accounts against third party stealing attempts)\n\nAlso, we’re using in-game logs such as trades, gameplay actions, login hours, in-game chat messages. \nEvery personal information are collected thanks to the interaction between our website/our game and you only.",
-      "SECURITY_TITLE": "Security",
-      "SECURITY_CONTENT": "Every personal information collected by us are stored in a highly secured environment.\nThe latest technological innovations allows us to keep your sensitive information private.\nTherefore, we’re using :\n - ID / Password\n - High-level encryption for your passwords (Latest security standards, BCrypt)\n - Stored in a secured & isolated database\n - A development team at your service for any questions about your credentials & security",
-      "THANKS": "Thanks for trusting us,\n\tNosWings Team.",
-      "TITLE": "Privacy Policy",
-      "THIRDPARTY_TITLE": "Third Party Privacy Policies",
-      "THIRDPARTY_CONTENT": "This Privacy Policy doesn't apply to other websites linked to it.\nThus, we're encouraging to read the respective Private Policy of these 3rd Party websites. It may include differents practices, obligations or instructions. We don't have any control on it.",
+      "OPPOSITION_RIGHTS_TITLE": "Derechos de oposición",
+      "OPPOSITION_RIGHTS_CONTENT": "Nos comprometemos a ofrecerle un derecho de revocación y oposición con respecto a su información personal.\nBásicamente, significa que cada usuario puede solicitar la eliminación de sus datos personales en cualquier momento, en caso de que aparezcan en listas de difusión o algo así.\nSi desea hacerlo, simplemente póngase en contacto con nuestro servicio de asistencia técnica.",
+      "PERSONAL_INFORMATION_TITLE": "Información personal",
+      "PERSONAL_INFORMATION_CONTENT": "Estamos usando esta información personal:\n - Nombre de usuario\n - Dirección de correo electrónico\n - Dirección IP (Para proteger sus cuentas contra intentos de robo por parte de terceros)\n\nAdemás, utilizamos registros en el juego, como intercambios, acciones, horas de inicio de sesión y mensajes de chat. \nToda la información personal se recoge gracias a la interacción entre nuestro sitio web/nuestro juego y usted solamente.",
+      "SECURITY_TITLE": "Seguridad",
+      "SECURITY_CONTENT": "Toda la información personal recopilada por nosotros se almacena en un entorno altamente seguro.\nLas últimas innovaciones tecnológicas nos permiten mantener la privacidad de su información sensible.\nPor lo tanto, estamos usando:\n - ID / Contraseña\n - Cifrado de alto nivel para sus contraseñas (Últimos estándares de seguridad, BCrypt)\n - Almacenado en una base de datos segura y aislada\n - Un equipo de desarrollo a su servicio para cualquier pregunta sobre sus credenciales y seguridad",
+      "THANKS": "Gracias por confiar en nosotros,\n\tEl equipo de NosWings.",
+      "TITLE": "Política de Privacidad",
+      "THIRDPARTY_TITLE": "Políticas de Privacidad de terceros",
+      "THIRDPARTY_CONTENT": "Esta Política de Privacidad no se aplica a otros sitios web vinculados a ella.\nPor lo tanto, le recomendamos que lea la Política de Privacidad de estos sitios web de terceros. Podrían incluir diferentes prácticas, obligaciones o instrucciones.",
       "USE_OF_INFORMATION_TITLE": "How we use your informations ?",
       "USE_OF_INFORMATION_CONTENT": "User Accounts:\nTo provide access and manage your game account through the site, we're using your informations in order to link your User Panel to your in-game character.\nStatistical Analysis:\nIn order to learn how our game is growing and how his site is used, we gather and analyse the data that we collect. We may use those informations, to make QoL changes or to increase our site's functionnalities.",
-      "WARNING": "First of all, if you’re not 18 years old minimum, please ask your parents to explain all the words used in this document that you don't understand."
+      "WARNING": "Primero de todo, si no tienes 18 años como mínimo, por favor pregunta a tus padres para que te expliquen todas las palabras usadas en este documento que no entiendas."
     },
     "TOS": {
-      "TITLE": "",
+      "TITLE": "Términos de Servicio",
       "WARNING": ""
     }
   },

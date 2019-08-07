@@ -122,7 +122,7 @@
   },
   "PRIVACY": {
     "POLICY": {
-      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de confidentialité ainsi que nos Conditions Générales d'Utilisation.\nL'Equipe NosWings.",
+      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de confidentialité ainsi que nos CGU.\nL'Equipe NosWings.",
       "CHANGES_TITLE": "Changements de cette politique de confidentialité",
       "CHANGES_CONTENT": "L'équipe NosWings se réserve le droit d'ajouter, de modifier, ou/et de supprimer n'importe quel contenu de cette Politique de confidentialité à n'importe quel moment. Merci de regarder cette page souvent au cas où des changements sont réalisés.",
       "CHILDREN_TITLE": "Informations sur les enfants",
@@ -131,7 +131,7 @@
       "CONTACT_US_CONTENT": "Si vous avez quelconque question, requêtes ou plaintes à propos de cette Politique de confidentialité ou de nos pratiques, merci de nous contacter soit sur Discord, ou alors sur support.noswings.com",
       "COOKIES_TITLE": "Cookies",
       "COOKIES_CONTENT": "Comme tous les autres sites, nous utilisons les cookies pour stocker vos préférences (langues...). Vous pouvez choisir de les désactiver dans les options de votre navigateur.",
-      "DESC": "Dans cette Politique de confidentialité, \"nous\" représente l'équipe NosWings. Votre confidentialité est importante pour nous et nous le prenons très au sérieux. \nNous l'avons créée afin d'expliquer comment nous collectons et utilisons vos données personneles, comment vos informations sont protégées, et comment vos informations peuvent être utilisées.\nPour quelconque question, merci de contacter notre support.",
+      "DESC": "Dans cette Politique de confidentialité, \"nous\" représente l'équipe NosWings. Votre confidentialité est importante pour nous et nous le prenons très au sérieux. \nNous l'avons créée afin d'expliquer comment nous collectons et utilisons vos données personnelles, comment vos informations sont protégées, et comment vos informations peuvent être utilisées.\nPour quelconque question, merci de contacter notre support.",
       "OPPOSITION_RIGHTS_TITLE": "Droits d'opposition",
       "OPPOSITION_RIGHTS_CONTENT": "Nous nous engageons à vous offrir un droit d'opposition et de retrait quant à vos informations personnels. C'est-à-dire que chaque utilisateur peut demander à supprimer ses renseignements personnels, n'importe quand, par simple demande, dans le cas où vous ne voulez pas qu'ils figurent dans des listes de diffusion, par exemple.",
       "PERSONAL_INFORMATION_TITLE": "Informations personnelles",
@@ -147,8 +147,28 @@
       "WARNING": "Pour commencer, si vous n'êtes pas majeur, merci de demander à vos parents de vous expliquer chaque terme utilisé dans ce document que vous ne comprenez pas."
     },
     "TOS": {
-      "TITLE": "",
-      "WARNING": ""
+      "ACCOUNTS_TITLE": "Comptes utilisateur",
+      "ACCOUNTS_CONTENT": "",
+      "CHANGES_TITLE": "Changements des CGU",
+      "CHANGES_CONTENT": "L'équipe NosWings se réserve le droit d'ajouter, de modifier, ou/et de supprimer n'importe quel contenu de nos CGU à n'importe quel moment. \nMerci de regarder cette page souvent au cas où des changements sont réalisés.",
+      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de confidentialité ainsi que nos CGU.\nL'Equipe NosWings.",
+      "CONTACT_US_TITLE": "Contactez-nous",
+      "CONTACT_US_CONTENT": "Si vous avez quelconque question, requêtes ou plaintes à propos de nos CGU ou de nos pratiques, merci de nous contacter soit sur Discord, ou alors sur support.noswings.com",
+      "DESC": "Ce document représente les conditions générales d'utilisations du site. \nIl explique les différentes conditions que vous devez appliquer afin d'utiliser notre site. \nMerci de le lire soigneusement. En utilisant ce site, vous acceptez ce document.",
+      "DISCLAIMER_TITLE": "Disclaimer",
+      "DISCLAIMER_CONTENT": "Les informations contenus sur ce site sont présentes à des fins d'information uniquement.\nNosWings ne donne aucune garantie quant à l'exhaustivité, la fiabilité et l'exactitude de ces informations. Toute action que vous entreprenez sur les informations que vous trouvez sur le site sont a vos propres risques. NosWings n'est en aucun cas responsable des pertes et/ou des dommages liés à l'utilisation de notre site Web. \nDepuis notre site, vous pouvez en visiter d'autres. Alors que nous postons uniquement des liens sûrs, nous avons aucun contrôle sur ce que ces sites affichent. Nous ne sommes en aucun cas responsables du contenu trouvé sur ces sites.\nCeux-ci peuvent avoir une politique de confidentialité ainsi que des CGU différents des nôtres, merci de bien vouloir les lire avant de vous engager.",
+      "RESPONSABILITIES_TITLE": "Charges et responsabilités de NosWings",
+      "RESPONSABILITIES_CONTENT": "NosWings n'est pas responsable de votre inscription sur le site. Nous ne sommes en aucun cas lié à Entwell ou a Gameforge.\nNotre projet est un projet à but non lucratif, réalisé par des étudiants en informatique.",
+      "RULES_TITLE": "Règlement du jeu",
+      "RULES_CONTENT":"Bientôt disponible",
+      "SANCTION_TITLE": "Sanctions",
+      "SANCTION_CONTENT": "- Toute sanction relative à la boutique est définitive.\n - Différentes types de sanctions existent et peuvent aller d'une simple sourdine à un banissement permanent selon la gravité de l'acte. Le STAFF se réserve le droit de juger de la gravité de l'acte.\n - En cas de sanction, si vous souhaitez discuter à props de la raison de celle-ci, merci de contacter notre support. Uniquement la personne vous ayant donné la sanction agira sur votre cas. Après un mois, il n'est plus possible de revenir dessus.",
+      "SHOP_TITLE": "Boutique",
+      "SHOP_CONTENT": "- Bien que NosWings soit accessible gratuitement, une boutique est mise en place afin de subvenir aux besoins du jeu. Aucun achat est nécéssaire et obligatoire.\n - Nous utilisons des systèmes de paiements externes, nous ne sommes en aucun cas responsable si des problèmes occurent avec ces plateformes. Contactez la plateforme directement.\n - Tout usage de bug concernant la boutique se verra sanctionné d'un bannissement définitif, sans préavis, sans possibilité de négociation.\n - Le contenu et la monnaie virtuelle achetée en boutique est distribuée automatiquement. Aucun remboursement (hors cas spéciaux, à voir avec notre support) ne pourra être effectué.",
+      "THIRD_PARTY_LINKS_TITLE": "Liens vers d'autres sites", 
+      "THIRD_PARTY_LINKS_CONTENT": "Notre site peut contenir des liens vers d'autres sites qui ne sont pas contrôlés par NosWings.\n De ce fait, nous assumons aucune responsabilité pour quelconque contenu présent sur les liens que vous visiterez.", 
+      "TITLE": "Conditions Générales d'Utilisation (CGU)",
+      "WARNING": "Pour commencer, si vous n'êtes pas majeur, merci de demander à vos parents de vous expliquer chaque terme utilisé dans ce document que vous ne comprenez pas."
     }
   },
   "RANKING": {

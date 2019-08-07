@@ -1,8 +1,10 @@
 {
   "CLASSES": {
     "ADVENTURER": "Aventurier",
-    "SWORDMAN": "Escrimeur",
-    "MARTIAL": "Artiste martial"
+    "ARCHER": "Archer",
+    "MAGE": "Mage",
+    "MARTIAL": "Artiste martial",
+    "SWORDMAN": "Escrimeur"
   },
   "DISCORD_DESC": "Rejoignez nous sur Discord !",
   "ERRORS": {
@@ -100,13 +102,13 @@
   "INFO": "NosWings est un projet à but non lucratif fait par des étudiants en Informatique, il n'est en aucun cas associé ou supporté par GameForge ou Entwell.",
   "LINKS": {
     "DOWNLOAD": "Téléchargement",
-    "DISCLAIMER": "Clause de non-responsabilité",
     "LOGIN": "Connexion",
     "LOGOUT": "Déconnexion",
     "PRIVACY": "Confidentialité",
     "PRIVACY_POLICY": "Politique de confidentialité",
     "RANKING": "Classement",
     "REGISTER": "Inscription",
+    "RULES": "Règlement du jeu",
     "TOS": "Conditions d'Utilisation",
     "USEFUL_LINKS": "Liens Utiles"
   },
@@ -120,21 +122,28 @@
   },
   "PRIVACY": {
     "POLICY": {
-      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de Confidentialité ainsi que nos Conditions Générales d'Utilisation.\nL'Equipe NosWings.",
+      "CONFIRMATION": "En utilisant quelconque fonctionnalité sur ce site, vous acceptez notre Politique de confidentialité ainsi que nos Conditions Générales d'Utilisation.\nL'Equipe NosWings.",
+      "CHANGES_TITLE": "Changements de cette politique de confidentialité",
+      "CHANGES_CONTENT": "L'équipe NosWings se réserve le droit d'ajouter, de modifier, ou/et de supprimer n'importe quel contenu de cette Politique de confidentialité à n'importe quel moment. Merci de regarder cette page souvent au cas où des changements sont réalisés.",
       "CHILDREN_TITLE": "Informations sur les enfants",
       "CHILDREN_CONTENT": "Une autre part de notre priorité, outre la protection des données, est la protection d'utilisateurs. On encourage vivement les parents, dans le cas où votre enfant est mineur, d'observer, de participer et de gérer l'activité en ligne de votre enfant. NosWings ne collecte pas les informations des enfants de moins de 13 ans. Si vous pensez que votre enfant a fourni ce genre d'informations, contactez-nous au plus vite.",
+      "CONTACT_US_TITLE": "Contactez-nous",
+      "CONTACT_US_CONTENT": "Si vous avez quelconque question, requêtes ou plaintes à propos de cette Politique de confidentialité ou de nos pratiques, merci de nous contacter soit sur Discord, ou alors sur support.noswings.com",
       "COOKIES_TITLE": "Cookies",
       "COOKIES_CONTENT": "Comme tous les autres sites, nous utilisons les cookies pour stocker vos préférences (langues...). Vous pouvez choisir de les désactiver dans les options de votre navigateur.",
+      "DESC": "Dans cette Politique de confidentialité, \"nous\" représente l'équipe NosWings. Votre confidentialité est importante pour nous et nous le prenons très au sérieux. \nNous l'avons créée afin d'expliquer comment nous collectons et utilisons vos données personneles, comment vos informations sont protégées, et comment vos informations peuvent être utilisées.\nPour quelconque question, merci de contacter notre support.",
       "OPPOSITION_RIGHTS_TITLE": "Droits d'opposition",
       "OPPOSITION_RIGHTS_CONTENT": "Nous nous engageons à vous offrir un droit d'opposition et de retrait quant à vos informations personnels. C'est-à-dire que chaque utilisateur peut demander à supprimer ses renseignements personnels, n'importe quand, par simple demande, dans le cas où vous ne voulez pas qu'ils figurent dans des listes de diffusion, par exemple.",
       "PERSONAL_INFORMATION_TITLE": "Informations personnelles",
-      "PERSONAL_INFORMATION_CONTENT": "Nous utilisons ces informations personnelles :\n - Nom d'utilisateur\n - Adresse email\n - Adresse IP (pour protéger votre compte contre divers tentatives de vol de compte)\n\nDe plus, tous les échanges et messages en jeu, les actions, les heures de connexion sont stockées. \nChaque information personnelle est collectée grâce à l'interaction entre notre site, notre jeu, et vous uniquement.",
+      "PERSONAL_INFORMATION_CONTENT": "Vous n'avez pas besoin de donner vos informations pour naviguer sur le site. Cependant, pour accéder à certaines fonctionnalités comme votre Panel Utilisateur, vous devez être connecté. Nous pouvons donc demander les informations suivantes:\n- Nom d'utilisateur\n - Adresse email\n - Adresse IP (pour protéger votre compte contre divers tentatives de vol de compte)\n\nDe plus, tous les échanges et messages en jeu, les actions, les heures de connexion sont stockées. \nChaque information personnelle est collectée grâce à l'interaction entre notre site, notre jeu, et vous uniquement.",
       "SECURITY_TITLE": "Sécurité",
       "SECURITY_CONTENT": "Chaque information personnelle collectée par nous est stockée dans un environnement très sécurisé. Les dernières technologies que nous utilisons nous permettent de garder vos informations privées.\nNous utilisions actuellement:\n - Identifiant / Mot de passe\n - Chiffrement de haut niveau (derniers standard de sécurité)\n - Stockés dans une base de données sécurisée\n - Une équipe à votre écoute pour n'importe quelle question à propos de vos identifiants et de votre sécurité.",
       "THANKS": "Merci de nous faire confiance.\n\tL'Equipe NosWings",
       "TITLE": "Politique de confidentialité",
       "THIRDPARTY_TITLE": "Politique de confidentialité des logiciels tiers",
       "THIRDPARTY_CONTENT": "Cette politique de confidentialité ne s'applique pas aux sites vers lesquels le notre peut rediriger.\nNous vous encourageons alors de lire leur Politique de Confidentialité respectives dans le cas où elle inclut des pratiques, obligations, ou instructions différentes.",
+      "USE_OF_INFORMATION_TITLE": "Comment vos informations sont-elle utilisées ?",
+      "USE_OF_INFORMATION_CONTENT": "Comptes utiisateurs:\nPour vous donner un accès et gérer votre compte jeu depuis le site, nous utilisons ces informations dans le but de lier votre panel utilisateura votre personnage en jeu.\nAnalyse de statistiques:\nDans le but de savoir comment notre jeu évolue et comment ce site est utilisé, nous récupérons et analyons les données que nous collectons. Nous utiliserons probablement ces informations afin que vous ayez une meilleure expérience utilisateur.",
       "WARNING": "Pour commencer, si vous n'êtes pas majeur, merci de demander à vos parents de vous expliquer chaque terme utilisé dans ce document que vous ne comprenez pas."
     },
     "TOS": {
@@ -149,7 +158,6 @@
     "RANK": "Rang",
     "SEARCH": "Rechercher"
   },
-  "REVIEW": "Champ pour rajouter une image",
   "SLIDES": {
     "0": {
       "DESC": "Préparez vous à un serveur d'un nouveau genre.",

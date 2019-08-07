@@ -16,7 +16,7 @@ We are working with Pull Requests. If you want to participate and you don't know
 
 [The Beginners Guide to Contributing to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project)
 
-### **Rules**
+### **Game Rules**
 
 + All non-translated keys will fallback to EN.
 + You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.

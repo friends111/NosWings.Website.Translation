@@ -15,7 +15,7 @@
   },
   "FAQ": {
     "ABBR": "FAQ",
-    "BUTTONS": ["info", "player", "game", "$"],
+    "BUTTONS": ["info", "player", "game", "$", "View all", "Hide all"],
     "CONTENT": [
       {
         "category": "info",
@@ -102,13 +102,13 @@
   "INFO": "NosWings è un progetto senza scopo di lucro realizzato da studenti IT, e non è affiliato o approvato da GameForge o Entwell.",
   "LINKS": {
     "DOWNLOAD": "Scaricare",
-    "DISCLAIMER": "Esclusione di responsabilità",
     "LOGIN": "Login",
     "LOGOUT": "Disconnettersi",
     "PRIVACY": "Privacy",
     "PRIVACY_POLICY": "Informativa sulla privacy",
     "RANKING": "Ranking",
     "REGISTER": "Register",
+    "RULES": "Game Rules",
     "TOS": "Termini di servizio",
     "UPDATE": "Update",
     "USEFUL_LINKS": "LINK UTILI"
@@ -123,22 +123,29 @@
   },
   "PRIVACY": {
     "POLICY": {
-      "CONFIRMATION": "",
-      "CHILDREN_TITLE": "",
-      "CHILDREN_CONTENT": "",
-      "COOKIES_TITLE": "",
-      "COOKIES_CONTENT": "",
-      "OPPOSITION_RIGHTS_TITLE": "",
-      "OPPOSITION_RIGHTS_CONTENT": "",
-      "PERSONAL_INFORMATION_TITLE": "",
-      "PERSONAL_INFORMATION_CONTENT": "",
-      "SECURITY_TITLE": "",
-      "SECURITY_CONTENT": "",
-      "THANKS": "",
-      "TITLE": "",
-      "THIRDPARTY_TITLE": "",
-      "THIRDPARTY_CONTENT": "",
-      "WARNING": ""
+      "CONFIRMATION": "By using any kind of feature available in this website, you strongly agree to our Privacy Policy and our Terms of Services.\nNosWings Team",
+      "CHANGES_TITLE": "Changes to this Privacy Policy",
+      "CHANGES_CONTENT": "NosWings's Team reserves the right to add, modify, and remove content from this Privacy Policy at any time. Please check this page periodically for changes.",
+      "CHILDREN_TITLE": "Children's Information",
+      "CHILDREN_CONTENT": "Another part of our priority, besides protecting datas, is protecting our users as well. We encourage parents to observe, participate in, or even monitor their children online activity. \nNosWings doesn't collect any kind of informations from children under age of 13. If you think that your child provided this kind of informations, we strongly encourage us to contact us immediately.",
+      "CONTACT_US_TITLE": "Contact us",
+      "CONTACT_US_CONTENT": "If you have any question, inquiries, requests or complaints concerning this Privacy Policy or our practices, please contact us on Discord, or on support.noswings.com",
+      "COOKIES_TITLE": "Cookies",
+      "COOKIES_CONTENT": "Like any others websites, we're using cookies to store your preferences (languages...).\n You can choose to disable them through your browser settings.",
+      "DESC": "In this Privacy Policy, \"we\" represents NosWIngs's Team. Your privacy is important for us and we take it very seriously.\nWe designed it to cover how we collect and use your informations, how your informations are protected, and how your informations may be used.\nFor any questions, please contact our support.",
+      "OPPOSITION_RIGHTS_TITLE": "Opposition rights",
+      "OPPOSITION_RIGHTS_CONTENT": "We make a commitment to offer you a withdrawal and opposition right in regards to your personal information.\nBasically, it means that every user can request the removal their personal information at any time, in case they’ll appear in diffusion lists or something.\n If you wish to do so, simply contact our support.",
+      "PERSONAL_INFORMATION_TITLE":"Personal Informations",
+      "PERSONAL_INFORMATION_CONTENT": "You don't need to provide information directly in order to navigate in the site. However, when you using some functions on the site, such as accessing panels or more, you must be logged, so we may ask for the following informations :\n- Username\n - Mail address\n - IP Address (To protect your accounts against third party stealing attempts)\n\nAlso, we’re using in-game logs such as trades, gameplay actions, login hours, in-game chat messages. \nEvery personal information are collected thanks to the interaction between our website/our game and you only.",
+      "SECURITY_TITLE": "Security",
+      "SECURITY_CONTENT": "Every personal information collected by us are stored in a highly secured environment.\nThe latest technological innovations allows us to keep your sensitive information private.\nTherefore, we’re using :\n - ID / Password\n - High-level encryption for your passwords (Latest security standards, BCrypt)\n - Stored in a secured & isolated database\n - A development team at your service for any questions about your credentials & security",
+      "THANKS": "Thanks for trusting us,\n\tNosWings Team.",
+      "TITLE": "Privacy Policy",
+      "THIRDPARTY_TITLE": "Third Party Privacy Policies",
+      "THIRDPARTY_CONTENT": "This Privacy Policy doesn't apply to other websites linked to it.\nThus, we're encouraging to read the respective Private Policy of these 3rd Party websites. It may include differents practices, obligations or instructions. We don't have any control on it.",
+      "USE_OF_INFORMATION_TITLE": "How we use your informations ?",
+      "USE_OF_INFORMATION_CONTENT": "User Accounts:\nTo provide access and manage your game account through the site, we're using your informations in order to link your User Panel to your in-game character.\nStatistical Analysis:\nIn order to learn how our game is growing and how his site is used, we gather and analyse the data that we collect. We may use those informations, to make QoL changes or to increase our site's functionnalities.",
+      "WARNING": "First of all, if you’re not 18 years old minimum, please ask your parents to explain all the words used in this document that you don't understand."
     },
     "TOS": {
       "TITLE": "",
@@ -152,7 +159,6 @@
     "RANK": "Rank",
     "SEARCH": "Ricerca"
   },
-  "REVIEW": "We should put an img here imo",
   "SLIDES": {
     "0": {
       "DESC": "Siate pronti per un server incredibile.",

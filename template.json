@@ -1,0 +1,183 @@
+{
+  "CLASSES": {
+    "ADVENTURER": "",
+    "ARCHER": "",
+    "MAGE": "",
+    "MARTIAL": "",
+    "SWORDMAN": ""
+  },
+  "DISCORD_DESC": "",
+  "ERRORS": {
+    "PASSWORD_REQ": "",
+    "USERNAME_LENGTH": "",
+    "WRONG_CONF_PASSWD": "",
+    "WRONG_EMAIL": ""
+  },
+  "FAQ": {
+    "ABBR": "",
+    "BUTTONS": ["", "", "", "", "", ""],
+    "CONTENT": [
+      {
+        "category": "info",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "user",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "money",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "money",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "game",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "game",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "game",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "info",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "info",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "user",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "info",
+        "q": "",
+        "a": ""
+      },
+      {
+        "category": "info",
+        "q": "",
+        "a": ""
+      }
+    ],
+    "DESC": "",
+    "TITLE": "s"
+  },
+  "FORMS": {
+    "ACC_ID": "",
+    "AUTH": {
+      "NAME": "",
+      "USER": "",
+      "GM": "",
+      "ADMIN": ""
+    },
+    "ACTUAL_PASSWD": "",
+    "CONF_EMAIL": "",
+    "CONF_PASSWD": "",
+    "FORGOT_PASSWD": "",
+    "NEW_PASSWD": "",
+    "PASSWORD": "",
+    "RESET": "",
+    "TOS": "",
+    "USERNAME": ""
+  },
+  "INFO": "",
+  "LINKS": {
+    "DOWNLOAD": "",
+    "LOGIN": "",
+    "LOGOUT": " ",
+    "PRIVACY": "",
+    "PRIVACY_POLICY": "",
+    "RANKING": "",
+    "REGISTER": "",
+    "RULES": "",
+    "TOS": "",
+    "UPDATE": "",
+    "USEFUL_LINKS": ""
+  },
+  "NEWS": {
+    "TITLE": ""
+  },
+  "PANELS": {
+    "USER": "",
+    "GM": "",
+    "ADMIN": ""
+  },
+  "PRIVACY": {
+    "POLICY": {
+        "CONFIRMATION": "",
+        "CHILDREN_TITLE": "",
+        "CHILDREN_CONTENT": "",
+        "COOKIES_TITLE": "",
+        "COOKIES_CONTENT": "",
+        "OPPOSITION_RIGHTS_TITLE": "",
+        "OPPOSITION_RIGHTS_CONTENT": "",
+        "PERSONAL_INFORMATION_TITLE": "",
+        "PERSONAL_INFORMATION_CONTENT": "",
+        "SECURITY_TITLE": "",
+        "SECURITY_CONTENT": "",
+        "THANKS": "",
+        "TITLE": "",
+        "THIRDPARTY_TITLE": "",
+        "THIRDPARTY_CONTENT": "",
+        "WARNING": ""
+    },
+    "TOS": {
+        "TITLE": "",
+        "WARNING": ""
+    }
+  },
+  "RANKING": {
+    "FAMILY": "",
+    "MEMBERS": "",
+    "NAME": "",
+    "RANK": "",
+    "SEARCH": ""
+  },
+  "SLIDES": {
+    "0": {
+      "DESC": "",
+      "TITLE": ""
+    },
+    "1": {
+      "DESC": "",
+      "TITLE": ""
+    }
+  },
+  "USER_INFOS": {
+    "CLASS": "",
+    "CHARACTER": "",
+    "CREATION_DATE": "",
+    "CURRENT_INFO": "",
+    "GOLD": "",
+    "LAST_LOGIN": "",
+    "LEVEL": "",
+    "PSEUDO": "",
+    "REPUT": ""
+  },
+  "USER_PANEL": {
+    "HOME": "",
+    "SETTINGS": "",
+    "DONATION": "",
+    "VIP": "",
+    "SHOP": ""
+  }
+}

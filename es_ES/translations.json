@@ -127,7 +127,7 @@
       "CHANGES_TITLE": "Changes in Privacy Policy",
       "CHANGES_CONTENT": "NosWings Team reserves the right to add, modify, and remove content from the Privacy Policy at any time. Please check this page periodically for changes.",
       "CHILDREN_TITLE": "Información proveniente de niños",
-      "CHILDREN_CONTENT": "Otra parte de nuestra prioridad, además de la protección de datos, es la protección de nuestros usuarios. Recomendamos a los padres que observen, participen o incluso supervisen la actividad en línea de sus hijos. \nNosWings no recoge ningún tipo de información de niños menores de 13. Si usted cree que su hijo ha proporcionado este tipo de información, le recomendamos que se ponga en contacto con nosotros inmediatamente.",
+      "CHILDREN_CONTENT": "Otra parte de nuestra prioridad, además de la protección de datos, es la protección de nuestros usuarios. Recomendamos a los padres que observen, participen o incluso supervisen la actividad en línea de sus hijos.\nNosWings no recoge ningún tipo de información de niños menores de 13. Si usted cree que su hijo ha proporcionado este tipo de información, le recomendamos que se ponga en contacto con nosotros inmediatamente.",
       "CHILDREN_CONTENT": "Another part of our priority, besides protecting datas, is protecting our users as well. We encourage parents to observe, participate in, or even monitor their children online activity.\nNosWings does not collect any kind of information from children under the age of 13. If you think that your child provided this kind of information, we strongly encourage you to contact us immediately.",
       "CONTACT_US_TITLE": "Contact us",
 	  "COOKIES_TITLE": "Cookies",
@@ -136,9 +136,9 @@
       "OPPOSITION_RIGHTS_TITLE": "Derechos de oposición",
       "OPPOSITION_RIGHTS_CONTENT": "Nos comprometemos a ofrecerle un derecho de revocación y oposición con respecto a su información personal.\nBásicamente, significa que cada usuario puede solicitar la eliminación de sus datos personales en cualquier momento, en caso de que aparezcan en listas de difusión o algo así.\nSi desea hacerlo, simplemente póngase en contacto con nuestro servicio de asistencia técnica.",
       "PERSONAL_INFORMATION_TITLE": "Información personal",
-      "PERSONAL_INFORMATION_CONTENT": "Estamos usando esta información personal:\n - Nombre de usuario\n - Dirección de correo electrónico\n - Dirección IP (Para proteger sus cuentas contra intentos de robo por parte de terceros)\n\nAdemás, utilizamos registros en el juego, como intercambios, acciones, horas de inicio de sesión y mensajes de chat. \nToda la información personal se recoge gracias a la interacción entre nuestro sitio web/nuestro juego y usted solamente.",
+      "PERSONAL_INFORMATION_CONTENT": "Estamos usando esta información personal:\n- Nombre de usuario\n- Dirección de correo electrónico\n- Dirección IP (Para proteger sus cuentas contra intentos de robo por parte de terceros)\n\nAdemás, utilizamos registros en el juego, como intercambios, acciones, horas de inicio de sesión y mensajes de chat.\nToda la información personal se recoge gracias a la interacción entre nuestro sitio web/nuestro juego y usted solamente.",
       "SECURITY_TITLE": "Seguridad",
-      "SECURITY_CONTENT": "Toda la información personal recopilada por nosotros se almacena en un entorno altamente seguro.\nLas últimas innovaciones tecnológicas nos permiten mantener la privacidad de su información sensible.\nPor lo tanto, estamos usando:\n - ID / Contraseña\n - Cifrado de alto nivel para sus contraseñas (Últimos estándares de seguridad, BCrypt)\n - Almacenado en una base de datos segura y aislada\n - Un equipo de desarrollo a su servicio para cualquier pregunta sobre sus credenciales y seguridad",
+      "SECURITY_CONTENT": "Toda la información personal recopilada por nosotros se almacena en un entorno altamente seguro.\nLas últimas innovaciones tecnológicas nos permiten mantener la privacidad de su información sensible.\nPor lo tanto, estamos usando:\n- ID / Contraseña\n- Cifrado de alto nivel para sus contraseñas (Últimos estándares de seguridad, BCrypt)\n- Almacenado en una base de datos segura y aislada\n- Un equipo de desarrollo a su servicio para cualquier pregunta sobre sus credenciales y seguridad",
       "THANKS": "Gracias por confiar en nosotros,\n\tEl equipo de NosWings.",
       "TITLE": "Política de Privacidad",
       "THIRDPARTY_TITLE": "Políticas de Privacidad de terceros",
@@ -149,225 +149,15 @@
     },
     "TOS": {
       "ACCOUNTS_TITLE": "User Account",
-      "ACCOUNTS_CONTENT": "- You are responsible for safeguarding the password you use to access our website content. You agree not to disclose your password to anyone. You must notify us immediately if you notice any breach of security linked to your account. \n- NosWings Team will NEVER ask you, under no circumstances, for your password. \n- You can get a huge penalty in case of password disclosure\n- It is STRICTLY FORBIDDEN to trade/sell any resource (Gold, Items...) in exchange of any other resource of other private server, official server, or for IRL money.",
+      "ACCOUNTS_CONTENT": "- You are responsible for safeguarding the password you use to access our website content. You agree not to disclose your password to anyone. You must notify us immediately if you notice any breach of security linked to your account.\n- NosWings Team will NEVER ask you, under no circumstances, for your password.\n- You can get a huge penalty in case of password disclosure\n- It is STRICTLY FORBIDDEN to trade/sell any resource (Gold, Items...) in exchange of any other resource of other private server, official server, or for IRL money.",
       "CHANGES_TITLE": "Changes in Terms of Service",
       "CHANGES_CONTENT": "NosWings Team reserves the right to add, modify, and remove content from the Terms of Service at any time. Please check this page periodically for changes.",
       "CONFIRMATION": "By using any kind of feature available on this website, you agree to our Privacy Policy and our Terms of Service.\nNosWings Team",
       "CONTACT_US_TITLE": "Contact Us",
       "CONTACT_US_CONTENT": "If you have any question, inquiries, requests or complaints concerning the Terms of Service or our practices, please contact us in Discord, or at support.noswings.com.",
-      "DESC": "This document represents our Terms and Services. \nIt explains everything that you must agree with in order to use this website. \nRead it thoroughly and carefully. By using this website, you agree to the agreements included in this document.",
+      "DESC": "This document represents our Terms and Services.\nIt explains everything that you must agree with in order to use this website.\nRead it thoroughly and carefully. By using this website, you agree to the agreements included in this document.",
       "DISCLAIMER_TITLE": "Disclaimer",
-      "DISCLAIMER_CONTENT": "All information on this website is for general information purpose only.\nNosWings does not make any warranties about the completeness, reliability and accuracy of those informations. Any action you take upon the information you find on this website is strictly at your own risk. \nFrom our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. \nPlease be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Be sure to check them before uploading any information.",
-      "RESPONSABILITIES_TITLE": "NosWings responsibilities",
-      "RESPONSABILITIES_CONTENT": "NosWings is not responsible for any of your subscriptions. We are by no means linked to Entwell or Gameforge.\nNosWings is a non-profit project made by IT students.",
-      "RULES_TITLE": "Game Rules",
-      "RULES_CONTENT":"N/A",
-      "SANCTION_TITLE": "Sanctions",
-      "SANCTION_CONTENT": "- Every penalty related to the Item Shop is definitive.\n- Different levels of penalties exist: they can range from a simple mute to a permanent ban. Our STAFF reserves the right to judge the gravity of the act.\n- In case of penalty, if you wish to discuss about it, please contact our support. Only the person who gave you the penalty will be assigned to it. After one month your issue will be closed and it will not be possible to appeal further.",
-      "SHOP_TITLE": "Item Shop",
-      "SHOP_CONTENT": "- Although NosWings is free, an Item Shop is available to support the game servers. No purchase is necessary and/or mandatory.\n- We are using extern payement systems, thus we are not responsible if any issues occur. Please contact their support if there was a need.\n- Any bugusing related to our Item Shop will lead to a definitive permanent ban without notice or negociation possibility.\n- The content and the virtual currency bought in the Item Shop is distributed automatically. No refund (except special cases) will be allowed.",
-      "THIRD_PARTY_LINKS_TITLE": "Third Party Links", 
-      "THIRD_PARTY_LINKS_CONTENT": "Our website may contain third-party links.\nThus, we assume no responsibility for any content in the links you visit.", 
-      "TITLE": "Terms of Service",
-      "WARNING": "First of all, if you are under 18 years old, please ask your parents to explain all the words used in this document that you may not understand."
-    }
-  },
-  "RANKING": {
-    "FAMILY": "Familia",
-    "MEMBERS": "Miembros",
-    "NAME": "Nombre",
-    "RANK": "Posición",
-    "SEARCH": "Buscar"
-  },
-  "SLIDES": {
-    "0": {
-      "DESC": "Prepárate para un servidor increíble.",
-      "TITLE": "¡NosWings ha vuelto!"
-    },
-    "1": {
-      "DESC": "",
-      "TITLE": "PÁGINA WEB DE DEMOSTRACIÓN, ACTUALMENTE EN PROCESO DE DESARROLLO. GRACIAS."
-    }
-  },
-  "USER_INFOS": {
-    "CLASS": "Clase",
-    "CHARACTER": "Personaje",
-    "CREATION_DATE": "Fecha de creación",
-    "CURRENT_INFO": "Información de tu cuenta",
-    "GOLD": "Oro",
-    "LAST_LOGIN": "Último inició de sesión",
-    "LEVEL": "Nivel",
-    "PSEUDO": "Apodo",
-    "REPUT": "Reputación"
-  },
-  "USER_PANEL": {
-    "HOME": "Panel de usuario",
-    "SETTINGS": "Ajustes de cuenta",
-    "DONATION": "Donations",
-    "VIP": "¡Házte VIP!",
-    "SHOP": "Tienda"
-  }
-}
-{
-  "CLASSES": {
-    "ADVENTURER": "Aventurero",
-    "MAGE": "Mago",
-    "ARCHER": "Arquero",
-    "SWORDMAN": "Espadachín",
-    "MARTIAL": "Artista Marcial"
-  },
-  "DISCORD_DESC": "¡Ven y habla con nostros en Discord!",
-  "ERRORS": {
-    "PASSWORD_REQ": "La contraseña debe contener 8 caracteres y 1 numero como mínimo",
-    "USERNAME_LENGTH": "El nombre de usuario debe contener como mínimo 4 caracteres",
-    "WRONG_CONF_PASSWD": "La contraseña de confirmación no coincide",
-    "WRONG_EMAIL": "Correo electrónico incorrecto"
-  },
-  "FAQ": {
-    "ABBR": "FAQ",
-    "BUTTONS": ["información", "jugador", "juego", "dinero", "Ver todo", "Esconder todo"],
-    "CONTENT": [
-      {
-        "category": "info",
-        "q": "¿Cuándo empezara la [Beta Abierta]?",
-        "a": "Aún no lo sabemos. Queremos que todos los sistemas funcionen correctamente. No queremos que juguéis un juego donde todo este hecho un fiasco."
-      },
-      {
-        "category": "user",
-        "q": "¿Tendré que pagar para entrar al servidor?",
-        "a": "No, no tendrás que pagar. El servidor será [Free To Play]."
-      },
-      {
-        "category": "money",
-        "q": "¿Habrá [P2W] en el servidor?",
-        "a": "No, absolutamente no. El servidor no tendrá [P2W]. Aún y así los jugadores [VIP] seguramente tendrán [ventajas de confort], pero todo estará hecho de tal forma que sea balanceado y accesible para todo el mundo."
-      },
-      {
-        "category": "money",
-        "q": "¿Como planeáis mantener el servidor financieramente?",
-        "a": "Habrá cosas cosméticas en la [ItemShop], por ejemplo: trajes, aspectos de arma, etc. La [ItemShop] también incluirá [Cajas Aleatorias], por ejemplo: La [Caja de Mejora de SP] contendrá: Lunas llenas, Plumas de Ángel, pergaminos y almas. Todas estas cajas se podrán obtener haciendo [Grinding] en el juego o a través de otros métodos. Lo mismo va para el [VIP] que dará de forma acceso al [NosBazar] o a [Mejoras del Inventario] y a ventajas más orientadas al confort."
-      },
-      {
-        "category": "game",
-        "q": "¿Estarán las habilidades, equipamientos o [SPs de Compañero] balanceadas?",
-        "a": "En la [Beta Abierta] aún no. Trabajaremos en eso después, pero primero acabaremos las funciones básicas."
-      },
-      {
-        "category": "game",
-        "q": "¿Estará operativo [LOD]?",
-        "a": "Todavía no lo sabemos, pero tenemos planes para un futuro."
-      },
-      {
-        "category": "game",
-        "q": "¿Habrá algún tipo de misiones nuevas?",
-        "a": "Sí, definitivamente. Nos gustaría añadir nuevas misiones, como ejemplo: recoger X cantidad de oro de los mobs, o completar X Time-Spaces de dicho tipo, etc."
-      },
-      {
-        "category": "info",
-        "q": "¿Cuál será el nivel máximo?",
-        "a": "Aún estamos en fase de planificación para ese tipo de cosas, pero lo revelaremos dentro de poco."
-      },
-      {
-        "category": "info",
-        "q": "¿Qué [Rates] o [Porcentajes] tendrá el servidor?",
-        "a": "Lo mismo que arriba (la pregunta sobre el nivel máximo), pero definitivamente estarán alrededor de un x5. Queremos proveer un vida de juego larga a NosWings, no un servidor donde obtienes un personaje de nivel alto en unas horas."
-      },
-      {
-        "category": "user",
-        "q": "¿Será mi personaje borrado si juego a la [Beta Abierta]?",
-        "a": "Sí, el objetivo de la [Beta Abierta] es comprobar nuestro entorno técnico y cambios en el diseño del juego. Todas las cosas que hagan los jugadores serán analizadas para obtener un montón de estadísticas globales y ser capaces de hacer ajustes en el [Gameplay] fácilmente."
-      },
-      {
-        "category": "info",
-        "q": "¿He escuchado que NosWings existió antes, que era NosWings antes?",
-        "a": "Fuimos el primer servidor privado francés con 300 jugadores en línea de forma diaria, durante más de un año. Nuestro equipo estaba compuesto por unos pocos franceses entusiastas. Empezó en Noviembre de 2016 y decidimos cerrarlo en Enero de 2018 porqué no estábamos satisfechos con las posibilidades de OpenNos de añadir nueva funciones al juego. Entonces todo el equipo abandono NosWings, haciendo sus propios proyectos por su parte para aprender un montón de cosas técnicas nuevas. 1 año y 6 meses después, Blowa decidió reabrir el proyecto de NosWings y reunió de nuevo a los antiguos miembros de NosWings para hacer una nueva aventura con muchas más posibilidades."
-      },
-      {
-        "category": "info",
-        "q": "¿Qué es NosWings ahora?",
-        "a": "Todas tus respuestas están en el Discord de NosWings (#what-is-noswings o #faq)."
-      }
-    ],
-    "DESC": "Pequeña sección de FAQ para responder las preguntas más frecuentemente preguntadas",
-    "TITLE": "Preguntas Frecuentemente Preguntadas"
-  },
-  "FORMS": {
-    "ACC_ID": "Nombre de usuario",
-    "AUTH": {
-      "NAME": "Autoridad",
-      "USER": "Jugador",
-      "GM": "Game Master",
-      "ADMIN": "Administrador"
-    },
-    "ACTUAL_PASSWD": "Contraseña actual",
-    "CONF_EMAIL": "Confirma el corre electrónico",
-    "CONF_PASSWD": "Contraseña de confirmación",
-    "FORGOT_PASSWD": "¿Has olvidado la contraseña?",
-    "NEW_PASSWD": "Nueva contraseña",
-    "PASSWORD": "Contraseña",
-    "RESET": "Reiniciar",
-    "TOS": "Acepto los términos de servicio",
-    "USERNAME": "Nombre de usuario"
-  },
-  "INFO": "NosWings es un proyecto sin fines de lucro hecho por estudiantes de informática, y no está afiliado o respaldado por Gameforge o Entwell.",
-  "LINKS": {
-    "DOWNLOAD": "Descragar",
-    "LOGIN": "Iniciar sesión",
-    "LOGOUT": "Cerrar sesión",
-    "PRIVACY": "Privacidad",
-    "PRIVACY_POLICY": "Política de privacidad",
-    "RANKING": "Ranking",
-    "REGISTER": "Registrate",
-    "RULES": "Game Rules",
-    "TOS": "Términos de servicio",
-    "UPDATE": "Actualización",
-    "USEFUL_LINKS": "LINKS ÚTILES"
-  },
-  "NEWS": {
-    "TITLE": "Últimas noticias"
-  },
-  "PANELS": {
-    "USER": "Panel de usuario",
-    "GM": "Panel de GM",
-    "ADMIN": "Panel de administrador"
-  },
-  "PRIVACY": {
-    "POLICY": {
-      "CONFIRMATION": "Al utilizar cualquier tipo de función disponible en este sitio web, usted acepta nuestra Política de Privacidad y nuestros Términos de Servicio.\nEl equipo de NosWings.",
-      "CHANGES_TITLE": "Changes in Privacy Policy",
-      "CHANGES_CONTENT": "NosWings Team reserves the right to add, modify, and remove content from the Privacy Policy at any time. Please check this page periodically for changes.",
-      "CHILDREN_TITLE": "Información proveniente de niños",
-      "CHILDREN_CONTENT": "Otra parte de nuestra prioridad, además de la protección de datos, es la protección de nuestros usuarios. Recomendamos a los padres que observen, participen o incluso supervisen la actividad en línea de sus hijos. \nNosWings no recoge ningún tipo de información de niños menores de 13. Si usted cree que su hijo ha proporcionado este tipo de información, le recomendamos que se ponga en contacto con nosotros inmediatamente.",
-      "CHILDREN_CONTENT": "Another part of our priority, besides protecting datas, is protecting our users as well. We encourage parents to observe, participate in, or even monitor their children online activity.\nNosWings does not collect any kind of information from children under the age of 13. If you think that your child provided this kind of information, we strongly encourage you to contact us immediately.",
-      "CONTACT_US_TITLE": "Contact us",
-	  "COOKIES_TITLE": "Cookies",
-      "COOKIES_CONTENT": "Como cualquier otro sitio web, utilizamos cookies para almacenar sus preferencias (idiomas...).\nSi desea puede desactivarlos a través de la configuración de su navegador.",
-      "DESC": "In this Privacy Policy, \"we\" represents NosWings Team. Your privacy is important for us and we take it very seriously.\nWe designed it to cover how we collect and use your information, how your information are protected, and how your information may be used.\nFor any questions, please contact our support.",
-      "OPPOSITION_RIGHTS_TITLE": "Derechos de oposición",
-      "OPPOSITION_RIGHTS_CONTENT": "Nos comprometemos a ofrecerle un derecho de revocación y oposición con respecto a su información personal.\nBásicamente, significa que cada usuario puede solicitar la eliminación de sus datos personales en cualquier momento, en caso de que aparezcan en listas de difusión o algo así.\nSi desea hacerlo, simplemente póngase en contacto con nuestro servicio de asistencia técnica.",
-      "PERSONAL_INFORMATION_TITLE": "Información personal",
-      "PERSONAL_INFORMATION_CONTENT": "Estamos usando esta información personal:\n - Nombre de usuario\n - Dirección de correo electrónico\n - Dirección IP (Para proteger sus cuentas contra intentos de robo por parte de terceros)\n\nAdemás, utilizamos registros en el juego, como intercambios, acciones, horas de inicio de sesión y mensajes de chat. \nToda la información personal se recoge gracias a la interacción entre nuestro sitio web/nuestro juego y usted solamente.",
-      "SECURITY_TITLE": "Seguridad",
-      "SECURITY_CONTENT": "Toda la información personal recopilada por nosotros se almacena en un entorno altamente seguro.\nLas últimas innovaciones tecnológicas nos permiten mantener la privacidad de su información sensible.\nPor lo tanto, estamos usando:\n - ID / Contraseña\n - Cifrado de alto nivel para sus contraseñas (Últimos estándares de seguridad, BCrypt)\n - Almacenado en una base de datos segura y aislada\n - Un equipo de desarrollo a su servicio para cualquier pregunta sobre sus credenciales y seguridad",
-      "THANKS": "Gracias por confiar en nosotros,\n\tEl equipo de NosWings.",
-      "TITLE": "Política de Privacidad",
-      "THIRDPARTY_TITLE": "Políticas de Privacidad de terceros",
-      "THIRDPARTY_CONTENT": "Esta Política de Privacidad no se aplica a otros sitios web vinculados a ella.\nPor lo tanto, le recomendamos que lea la Política de Privacidad de estos sitios web de terceros. Podrían incluir diferentes prácticas, obligaciones o instrucciones.",
-      "USE_OF_INFORMATION_TITLE": "How do we use your information?",
-      "USE_OF_INFORMATION_CONTENT": "User Accounts:\nTo provide access and manage your game account through the site, we're using your information in order to link your User Panel to your in-game character.\nStatistical Analysis:\nIn order to learn how our game is growing and how his site is used, we gather and analyse the data that we collect. We may use those information to make QoL changes or to increase our site's functionalities.",
-      "WARNING": "Primero de todo, si no tienes 18 años como mínimo, por favor pregunta a tus padres para que te expliquen todas las palabras usadas en este documento que no entiendas."
-    },
-    "TOS": {
-      "ACCOUNTS_TITLE": "User Account",
-      "ACCOUNTS_CONTENT": "- You are responsible for safeguarding the password you use to access our website content. You agree not to disclose your password to anyone. You must notify us immediately if you notice any breach of security linked to your account. \n- NosWings Team will NEVER ask you, under no circumstances, for your password. \n- You can get a huge penalty in case of password disclosure\n- It is STRICTLY FORBIDDEN to trade/sell any resource (Gold, Items...) in exchange of any other resource of other private server, official server, or for IRL money.",
-      "CHANGES_TITLE": "Changes in Terms of Service",
-      "CHANGES_CONTENT": "NosWings Team reserves the right to add, modify, and remove content from the Terms of Service at any time. Please check this page periodically for changes.",
-      "CONFIRMATION": "By using any kind of feature available on this website, you agree to our Privacy Policy and our Terms of Service.\nNosWings Team",
-      "CONTACT_US_TITLE": "Contact Us",
-      "CONTACT_US_CONTENT": "If you have any question, inquiries, requests or complaints concerning the Terms of Service or our practices, please contact us in Discord, or at support.noswings.com.",
-      "DESC": "This document represents our Terms and Services. \nIt explains everything that you must agree with in order to use this website. \nRead it thoroughly and carefully. By using this website, you agree to the agreements included in this document.",
-      "DISCLAIMER_TITLE": "Disclaimer",
-      "DISCLAIMER_CONTENT": "All information on this website is for general information purpose only.\nNosWings does not make any warranties about the completeness, reliability and accuracy of those informations. Any action you take upon the information you find on this website is strictly at your own risk. \nFrom our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. \nPlease be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Be sure to check them before uploading any information.",
+      "DISCLAIMER_CONTENT": "All information on this website is for general information purpose only.\nNosWings does not make any warranties about the completeness, reliability and accuracy of those informations. Any action you take upon the information you find on this website is strictly at your own risk.\nFrom our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites.\nPlease be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Be sure to check them before uploading any information.",
       "RESPONSABILITIES_TITLE": "NosWings responsibilities",
       "RESPONSABILITIES_CONTENT": "NosWings is not responsible for any of your subscriptions. We are by no means linked to Entwell or Gameforge.\nNosWings is a non-profit project made by IT students.",
       "RULES_TITLE": "Game Rules",

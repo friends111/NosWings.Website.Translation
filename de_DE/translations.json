@@ -148,8 +148,28 @@
       "WARNING": "First of all, if you’re not 18 years old minimum, please ask your parents to explain all the words used in this document that you don't understand."
     },
     "TOS": {
-      "TITLE": "",
-      "WARNING": ""
+      "ACCOUNTS_TITLE": "User Account",
+      "ACCOUNTS_CONTENT": "- You're responsible for safeguarding the password you use to access to our website content. You agree not to disclose your password to no one. You must notify us immediately if you notice any breach of security linked to your account. \n- NosWings's team will NEVER ask you, in any condition, your password. \n - You can get a huge penalty in case of password disclosure\n - It's STRICTLY FORBIDDEN to exchange/sell any ressources (Gold, Items...) against any other ressources of other private server, official server, or for IRL money.",
+      "CHANGES_TITLE": "ToS Changements",
+      "CHANGES_CONTENT": "NosWings's Team reserves the right to add, modify, and remove content from this ToS at any time. Please check this page periodically for changes.",
+      "CONFIRMATION": "By using any kind of feature available in this website, you strongly agree to our Privacy Policy and our Terms of Services.\nNosWings Team",
+      "CONTACT_US_TITLE": "Contact Us",
+      "CONTACT_US_CONTENT": "If you have any question, inquiries, requests or complaints concerning this Privacy Policy or our practices, please contact us on Discord, or on support.noswings.com",
+      "DESC": "This document represents our Terms and Services. \nIt explain every things that you must agree with in order to use this website. \nThanks to read it carefully. By using this website, you agree to this document",
+      "DISCLAIMER_TITLE": "Disclaimer",
+      "DISCLAIMER_CONTENT": "All informations on this website is for general information purpose only.\nNosWings does not make any warranties about the completeness, reliability and accuracy of those informations. Any action you take upon the information you find on this website is strictly at your own risk. \nFrom our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. \nPlease be also aware that when you leave our website, other sites may have different privacy policies and terms which are beyond our control. Be sure to check them before uploading any information.",
+      "RESPONSABILITIES_TITLE": "NosWings responsabilities",
+      "RESPONSABILITIES_CONTENT": "NosWings isn't responsible at all of your subscription. We're not linked to Entwell or Gameforge at any point.\nOur project is a non-profit project made by IT students",
+      "RULES_TITLE": "Game Rules",
+      "RULES_CONTENT":"N/A",
+      "SANCTION_TITLE": "Sanctions",
+      "SANCTION_CONTENT": "- Every penalty related to shop is definitive\n - Differents levels of penalties exist : they can range from a simple mute to a permanent ban. Our STAFF reserves the right to judge the gravity of the act.\n - In case of penalty, if you wish to discuss about it, please contact our support. Only the person who gave you the penalty will act on your cause. After one month, your issue will be definitely closed and cannot be reverted anymore.",
+      "SHOP_TITLE": "Shop",
+      "SHOP_CONTENT": "- Although NosWings is free, a shop is available to support the game. No purchase is necessary and/or mandatory.\n - We're using extern payements systems so we're not responsibles if some issues occurs. Please contact their support.\n - Any bug using on our shop will lead to a definitive permanent ban, without notice, without negociation possibility\n - The content and the virtual currency bought in shop is distributed automatically No refund (except special cases) will be allowed.",
+      "THIRD_PARTY_LINKS_TITLE": "Third Party Links", 
+      "THIRD_PARTY_LINKS_CONTENT": "Out website may contain third-party links.\n Thus, we assume no responsibility for any content on the links you visit.", 
+      "TITLE": "Terms of Services (ToS)",
+      "WARNING": "First of all, if you’re not 18 years old minimum, please ask your parents to explain all the words used in this document that you don't understand."
     }
   },
   "RANKING": {
